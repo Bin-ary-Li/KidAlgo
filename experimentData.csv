@@ -1,0 +1,900 @@
+,AGE,ALGOTYPE,DEMO,OVERALL.RESPONSE,DOB,GENDER,ID,OVERALL.RESPONSE.NO,RESPONSE.NO,ACTION.NO,BUCKET,RESPONSE
+0,4.816,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, /RGxc, /G, R/, /G",7/13/14,FEMALE,4.0,0,0,0,left,R
+1,4.816,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, /RGxc, /G, R/, /G",7/13/14,FEMALE,4.0,1,1,0,right,G
+2,4.816,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, /RGxc, /G, R/, /G",7/13/14,FEMALE,4.0,2,2,0,left,G
+3,4.816,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, /RGxc, /G, R/, /G",7/13/14,FEMALE,4.0,3,2,0,right,R
+4,4.816,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, /RGxc, /G, R/, /G",7/13/14,FEMALE,4.0,4,3,0,right,G
+5,4.816,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, /RGxc, /G, R/, /G",7/13/14,FEMALE,4.0,5,4,0,left,R
+6,4.816,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, /RGxc, /G, R/, /G",7/13/14,FEMALE,4.0,6,5,0,right,G
+7,4.816,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR",7/13/14,FEMALE,4.0,0,0,0,left,G
+8,4.816,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR",7/13/14,FEMALE,4.0,1,1,0,right,R
+9,4.816,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR",7/13/14,FEMALE,4.0,2,1,1,right,R
+10,4.816,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR",7/13/14,FEMALE,4.0,3,2,0,left,G
+11,4.816,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR",7/13/14,FEMALE,4.0,4,3,0,right,R
+12,4.816,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR",7/13/14,FEMALE,4.0,5,3,1,right,R
+13,4.816,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR",7/13/14,FEMALE,4.0,6,4,0,left,G
+14,4.816,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR",7/13/14,FEMALE,4.0,7,5,0,right,R
+15,4.816,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR",7/13/14,FEMALE,4.0,8,5,1,right,R
+16,4.816,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR",7/13/14,FEMALE,4.0,9,6,0,left,G
+17,4.816,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR",7/13/14,FEMALE,4.0,10,7,0,right,R
+18,4.816,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR",7/13/14,FEMALE,4.0,11,7,1,right,R
+19,4.816,HITCH,"/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/","/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/",7/13/14,FEMALE,4.0,0,0,0,right,R
+20,4.816,HITCH,"/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/","/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/",7/13/14,FEMALE,4.0,1,0,1,right,B
+21,4.816,HITCH,"/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/","/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/",7/13/14,FEMALE,4.0,2,1,0,left,G
+22,4.816,HITCH,"/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/","/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/",7/13/14,FEMALE,4.0,3,1,1,left,B
+23,4.816,HITCH,"/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/","/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/",7/13/14,FEMALE,4.0,4,2,0,right,R
+24,4.816,HITCH,"/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/","/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/",7/13/14,FEMALE,4.0,5,2,1,right,B
+25,4.816,HITCH,"/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/","/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/",7/13/14,FEMALE,4.0,6,3,0,left,G
+26,4.816,HITCH,"/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/","/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/",7/13/14,FEMALE,4.0,7,3,1,left,B
+27,4.816,HITCH,"/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/","/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/",7/13/14,FEMALE,4.0,8,4,0,right,R
+28,4.816,HITCH,"/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/","/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/",7/13/14,FEMALE,4.0,9,4,1,right,B
+29,4.816,HITCH,"/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/","/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/",7/13/14,FEMALE,4.0,10,5,0,left,G
+30,4.816,HITCH,"/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/","/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/",7/13/14,FEMALE,4.0,11,5,1,left,B
+31,4.816,HITCH,"/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/","/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/",7/13/14,FEMALE,4.0,12,6,0,right,R
+32,4.816,HITCH,"/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/","/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/",7/13/14,FEMALE,4.0,13,6,1,right,B
+33,4.816,HITCH,"/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/","/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/",7/13/14,FEMALE,4.0,14,7,0,left,G
+34,4.816,HITCH,"/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/","/RB, GB/, /RB, GB/, /RB, GB/, /RB, GB/",7/13/14,FEMALE,4.0,15,7,1,left,B
+35,3.05,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, /G, R/, mRR/GG",4/18/16,MALE,7.0,0,0,0,left,R
+36,3.05,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, /G, R/, mRR/GG",4/18/16,MALE,7.0,1,1,0,right,G
+37,3.05,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, /G, R/, mRR/GG",4/18/16,MALE,7.0,2,2,0,left,R
+38,3.05,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, /G, R/, mRR/GG",4/18/16,MALE,7.0,3,3,0,right,G
+39,3.05,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, /G, R/, mRR/GG",4/18/16,MALE,7.0,4,4,0,right,G
+40,3.05,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, /G, R/, mRR/GG",4/18/16,MALE,7.0,5,5,0,left,R
+41,3.05,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, /G, R/, mRR/GG",4/18/16,MALE,7.0,6,6,0,left,R
+42,3.05,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, /G, R/, mRR/GG",4/18/16,MALE,7.0,7,6,1,left,R
+43,3.05,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, /G, R/, mRR/GG",4/18/16,MALE,7.0,8,6,0,right,G
+44,3.05,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, /G, R/, mRR/GG",4/18/16,MALE,7.0,9,6,1,right,G
+45,3.05,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, mRG/, G/, /mR, G/, /RR, mGG/RRR, G/",4/18/16,MALE,7.0,0,0,0,right,R
+46,3.05,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, mRG/, G/, /mR, G/, /RR, mGG/RRR, G/",4/18/16,MALE,7.0,1,1,0,left,R
+47,3.05,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, mRG/, G/, /mR, G/, /RR, mGG/RRR, G/",4/18/16,MALE,7.0,2,1,1,left,G
+48,3.05,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, mRG/, G/, /mR, G/, /RR, mGG/RRR, G/",4/18/16,MALE,7.0,3,2,0,left,G
+49,3.05,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, mRG/, G/, /mR, G/, /RR, mGG/RRR, G/",4/18/16,MALE,7.0,4,3,0,right,R
+50,3.05,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, mRG/, G/, /mR, G/, /RR, mGG/RRR, G/",4/18/16,MALE,7.0,5,4,0,left,G
+51,3.05,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, mRG/, G/, /mR, G/, /RR, mGG/RRR, G/",4/18/16,MALE,7.0,6,5,0,right,R
+52,3.05,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, mRG/, G/, /mR, G/, /RR, mGG/RRR, G/",4/18/16,MALE,7.0,7,5,1,right,R
+53,3.05,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, mRG/, G/, /mR, G/, /RR, mGG/RRR, G/",4/18/16,MALE,7.0,8,6,0,left,G
+54,3.05,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, mRG/, G/, /mR, G/, /RR, mGG/RRR, G/",4/18/16,MALE,7.0,9,6,1,left,G
+55,3.05,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, mRG/, G/, /mR, G/, /RR, mGG/RRR, G/",4/18/16,MALE,7.0,10,6,0,right,R
+56,3.05,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, mRG/, G/, /mR, G/, /RR, mGG/RRR, G/",4/18/16,MALE,7.0,11,6,1,right,R
+57,3.05,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, mRG/, G/, /mR, G/, /RR, mGG/RRR, G/",4/18/16,MALE,7.0,12,6,2,right,R
+58,3.05,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, mRG/, G/, /mR, G/, /RR, mGG/RRR, G/",4/18/16,MALE,7.0,13,7,0,left,G
+59,3.05,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","B/, /B, B/, B/, B/, mBBBB/, mB/",4/18/16,MALE,7.0,0,0,0,left,B
+60,3.05,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","B/, /B, B/, B/, B/, mBBBB/, mB/",4/18/16,MALE,7.0,1,1,0,right,B
+61,3.05,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","B/, /B, B/, B/, B/, mBBBB/, mB/",4/18/16,MALE,7.0,2,2,0,left,B
+62,3.05,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","B/, /B, B/, B/, B/, mBBBB/, mB/",4/18/16,MALE,7.0,3,3,0,left,B
+63,3.05,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","B/, /B, B/, B/, B/, mBBBB/, mB/",4/18/16,MALE,7.0,4,4,0,left,B
+64,3.05,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","B/, /B, B/, B/, B/, mBBBB/, mB/",4/18/16,MALE,7.0,5,5,0,left,B
+65,3.05,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","B/, /B, B/, B/, B/, mBBBB/, mB/",4/18/16,MALE,7.0,6,5,1,left,B
+66,3.05,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","B/, /B, B/, B/, B/, mBBBB/, mB/",4/18/16,MALE,7.0,7,5,2,left,B
+67,3.05,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","B/, /B, B/, B/, B/, mBBBB/, mB/",4/18/16,MALE,7.0,8,5,3,left,B
+68,3.05,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","B/, /B, B/, B/, B/, mBBBB/, mB/",4/18/16,MALE,7.0,9,6,0,left,B
+69,5.268,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, RGc/, R/, RR/, RR/, /GG",1/29/14,MALE,8.0,0,0,0,right,G
+70,5.268,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, RGc/, R/, RR/, RR/, /GG",1/29/14,MALE,8.0,1,1,0,left,R
+71,5.268,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, RGc/, R/, RR/, RR/, /GG",1/29/14,MALE,8.0,2,2,0,left,R
+72,5.268,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, RGc/, R/, RR/, RR/, /GG",1/29/14,MALE,8.0,3,2,0,right,G
+73,5.268,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, RGc/, R/, RR/, RR/, /GG",1/29/14,MALE,8.0,4,3,0,left,R
+74,5.268,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, RGc/, R/, RR/, RR/, /GG",1/29/14,MALE,8.0,5,4,0,left,R
+75,5.268,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, RGc/, R/, RR/, RR/, /GG",1/29/14,MALE,8.0,6,4,1,left,R
+76,5.268,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, RGc/, R/, RR/, RR/, /GG",1/29/14,MALE,8.0,7,5,0,left,R
+77,5.268,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, RGc/, R/, RR/, RR/, /GG",1/29/14,MALE,8.0,8,5,1,left,R
+78,5.268,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, RGc/, R/, RR/, RR/, /GG",1/29/14,MALE,8.0,9,6,0,right,G
+79,5.268,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, RGc/, R/, RR/, RR/, /GG",1/29/14,MALE,8.0,10,6,1,right,G
+80,5.268,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /G, R/, /GG, mRRR/, /GG, RR/, R/, RR/",1/29/14,MALE,8.0,0,0,0,left,R
+81,5.268,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /G, R/, /GG, mRRR/, /GG, RR/, R/, RR/",1/29/14,MALE,8.0,1,1,0,left,R
+82,5.268,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /G, R/, /GG, mRRR/, /GG, RR/, R/, RR/",1/29/14,MALE,8.0,2,2,0,right,G
+83,5.268,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /G, R/, /GG, mRRR/, /GG, RR/, R/, RR/",1/29/14,MALE,8.0,3,3,0,left,R
+84,5.268,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /G, R/, /GG, mRRR/, /GG, RR/, R/, RR/",1/29/14,MALE,8.0,4,4,0,right,G
+85,5.268,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /G, R/, /GG, mRRR/, /GG, RR/, R/, RR/",1/29/14,MALE,8.0,5,4,1,right,G
+86,5.268,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /G, R/, /GG, mRRR/, /GG, RR/, R/, RR/",1/29/14,MALE,8.0,6,5,0,left,R
+87,5.268,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /G, R/, /GG, mRRR/, /GG, RR/, R/, RR/",1/29/14,MALE,8.0,7,5,1,left,R
+88,5.268,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /G, R/, /GG, mRRR/, /GG, RR/, R/, RR/",1/29/14,MALE,8.0,8,5,2,left,R
+89,5.268,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /G, R/, /GG, mRRR/, /GG, RR/, R/, RR/",1/29/14,MALE,8.0,9,6,0,right,G
+90,5.268,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /G, R/, /GG, mRRR/, /GG, RR/, R/, RR/",1/29/14,MALE,8.0,10,6,1,right,G
+91,5.268,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /G, R/, /GG, mRRR/, /GG, RR/, R/, RR/",1/29/14,MALE,8.0,11,7,0,left,R
+92,5.268,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /G, R/, /GG, mRRR/, /GG, RR/, R/, RR/",1/29/14,MALE,8.0,12,7,1,left,R
+93,5.268,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /G, R/, /GG, mRRR/, /GG, RR/, R/, RR/",1/29/14,MALE,8.0,13,8,0,left,R
+94,5.268,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /G, R/, /GG, mRRR/, /GG, RR/, R/, RR/",1/29/14,MALE,8.0,14,9,0,left,R
+95,5.268,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /G, R/, /GG, mRRR/, /GG, RR/, R/, RR/",1/29/14,MALE,8.0,15,9,1,left,R
+96,5.268,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",1/29/14,MALE,8.0,0,0,0,left,R
+97,5.268,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",1/29/14,MALE,8.0,1,0,1,left,B
+98,5.268,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",1/29/14,MALE,8.0,2,1,0,right,G
+99,5.268,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",1/29/14,MALE,8.0,3,1,1,right,B
+100,5.268,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",1/29/14,MALE,8.0,4,2,0,left,R
+101,5.268,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",1/29/14,MALE,8.0,5,2,1,left,B
+102,5.268,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",1/29/14,MALE,8.0,6,3,0,right,G
+103,5.268,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",1/29/14,MALE,8.0,7,3,1,right,B
+104,5.268,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",1/29/14,MALE,8.0,8,4,0,left,R
+105,5.268,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",1/29/14,MALE,8.0,9,4,1,left,B
+106,5.268,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",1/29/14,MALE,8.0,10,5,0,right,G
+107,5.268,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",1/29/14,MALE,8.0,11,5,1,right,B
+108,3.543,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","RRRcRRb/, R/, /MRGc, R/, /G ",10/21/15,FEMALE,10.0,0,0,0,left,R
+109,3.543,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","RRRcRRb/, R/, /MRGc, R/, /G ",10/21/15,FEMALE,10.0,1,0,1,left,R
+110,3.543,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","RRRcRRb/, R/, /MRGc, R/, /G ",10/21/15,FEMALE,10.0,2,0,2,left,R
+111,3.543,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","RRRcRRb/, R/, /MRGc, R/, /G ",10/21/15,FEMALE,10.0,3,0,3,left,R
+112,3.543,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","RRRcRRb/, R/, /MRGc, R/, /G ",10/21/15,FEMALE,10.0,4,0,0,right,R
+113,3.543,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","RRRcRRb/, R/, /MRGc, R/, /G ",10/21/15,FEMALE,10.0,5,1,0,left,R
+114,3.543,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","RRRcRRb/, R/, /MRGc, R/, /G ",10/21/15,FEMALE,10.0,6,2,0,left,G
+115,3.543,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","RRRcRRb/, R/, /MRGc, R/, /G ",10/21/15,FEMALE,10.0,7,2,0,right,M
+116,3.543,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","RRRcRRb/, R/, /MRGc, R/, /G ",10/21/15,FEMALE,10.0,8,2,1,right,R
+117,3.543,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","RRRcRRb/, R/, /MRGc, R/, /G ",10/21/15,FEMALE,10.0,9,3,0,left,R
+118,3.543,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","RRRcRRb/, R/, /MRGc, R/, /G ",10/21/15,FEMALE,10.0,10,4,0,right,G
+119,3.543,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/mRRG, G/, /R, /GG, R/, R/, /RRc, /RR",10/21/15,FEMALE,10.0,0,0,0,right,R
+120,3.543,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/mRRG, G/, /R, /GG, R/, R/, /RRc, /RR",10/21/15,FEMALE,10.0,1,0,1,right,R
+121,3.543,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/mRRG, G/, /R, /GG, R/, R/, /RRc, /RR",10/21/15,FEMALE,10.0,2,0,2,right,G
+122,3.543,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/mRRG, G/, /R, /GG, R/, R/, /RRc, /RR",10/21/15,FEMALE,10.0,3,1,0,left,G
+123,3.543,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/mRRG, G/, /R, /GG, R/, R/, /RRc, /RR",10/21/15,FEMALE,10.0,4,2,0,right,R
+124,3.543,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/mRRG, G/, /R, /GG, R/, R/, /RRc, /RR",10/21/15,FEMALE,10.0,5,3,0,right,G
+125,3.543,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/mRRG, G/, /R, /GG, R/, R/, /RRc, /RR",10/21/15,FEMALE,10.0,6,3,1,right,G
+126,3.543,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/mRRG, G/, /R, /GG, R/, R/, /RRc, /RR",10/21/15,FEMALE,10.0,7,4,0,left,R
+127,3.543,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/mRRG, G/, /R, /GG, R/, R/, /RRc, /RR",10/21/15,FEMALE,10.0,8,5,0,left,R
+128,3.543,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/mRRG, G/, /R, /GG, R/, R/, /RRc, /RR",10/21/15,FEMALE,10.0,9,6,0,left,R
+129,3.543,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/mRRG, G/, /R, /GG, R/, R/, /RRc, /RR",10/21/15,FEMALE,10.0,10,6,0,right,R
+130,3.543,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/mRRG, G/, /R, /GG, R/, R/, /RRc, /RR",10/21/15,FEMALE,10.0,11,7,0,right,R
+131,3.543,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/mRRG, G/, /R, /GG, R/, R/, /RRc, /RR",10/21/15,FEMALE,10.0,12,7,1,right,R
+132,3.543,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","GB/, RB/, BRR/, R/G, mR/, GB/",10/21/15,FEMALE,10.0,0,0,0,left,G
+133,3.543,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","GB/, RB/, BRR/, R/G, mR/, GB/",10/21/15,FEMALE,10.0,1,0,1,left,B
+134,3.543,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","GB/, RB/, BRR/, R/G, mR/, GB/",10/21/15,FEMALE,10.0,2,1,0,left,R
+135,3.543,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","GB/, RB/, BRR/, R/G, mR/, GB/",10/21/15,FEMALE,10.0,3,1,1,left,B
+136,3.543,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","GB/, RB/, BRR/, R/G, mR/, GB/",10/21/15,FEMALE,10.0,4,2,0,left,B
+137,3.543,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","GB/, RB/, BRR/, R/G, mR/, GB/",10/21/15,FEMALE,10.0,5,2,1,left,R
+138,3.543,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","GB/, RB/, BRR/, R/G, mR/, GB/",10/21/15,FEMALE,10.0,6,2,2,left,R
+139,3.543,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","GB/, RB/, BRR/, R/G, mR/, GB/",10/21/15,FEMALE,10.0,7,3,0,left,R
+140,3.543,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","GB/, RB/, BRR/, R/G, mR/, GB/",10/21/15,FEMALE,10.0,8,3,0,right,G
+141,3.543,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","GB/, RB/, BRR/, R/G, mR/, GB/",10/21/15,FEMALE,10.0,9,4,0,left,R
+142,3.543,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","GB/, RB/, BRR/, R/G, mR/, GB/",10/21/15,FEMALE,10.0,10,5,0,left,G
+143,3.543,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","GB/, RB/, BRR/, R/G, mR/, GB/",10/21/15,FEMALE,10.0,11,5,1,left,B
+144,5.41,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","G/, /R, G/, /R, G/, /R, G/, /R,  G/, /R, G/, /R, G/, /R, G/, /R",12/8/13,FEMALE,13.0,0,0,0,left,G
+145,5.41,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","G/, /R, G/, /R, G/, /R, G/, /R,  G/, /R, G/, /R, G/, /R, G/, /R",12/8/13,FEMALE,13.0,1,1,0,right,R
+146,5.41,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","G/, /R, G/, /R, G/, /R, G/, /R,  G/, /R, G/, /R, G/, /R, G/, /R",12/8/13,FEMALE,13.0,2,2,0,left,G
+147,5.41,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","G/, /R, G/, /R, G/, /R, G/, /R,  G/, /R, G/, /R, G/, /R, G/, /R",12/8/13,FEMALE,13.0,3,3,0,right,R
+148,5.41,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","G/, /R, G/, /R, G/, /R, G/, /R,  G/, /R, G/, /R, G/, /R, G/, /R",12/8/13,FEMALE,13.0,4,4,0,left,G
+149,5.41,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","G/, /R, G/, /R, G/, /R, G/, /R,  G/, /R, G/, /R, G/, /R, G/, /R",12/8/13,FEMALE,13.0,5,5,0,right,R
+150,5.41,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","G/, /R, G/, /R, G/, /R, G/, /R,  G/, /R, G/, /R, G/, /R, G/, /R",12/8/13,FEMALE,13.0,6,6,0,left,G
+151,5.41,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","G/, /R, G/, /R, G/, /R, G/, /R,  G/, /R, G/, /R, G/, /R, G/, /R",12/8/13,FEMALE,13.0,7,7,0,right,R
+152,5.41,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","G/, /R, G/, /R, G/, /R, G/, /R,  G/, /R, G/, /R, G/, /R, G/, /R",12/8/13,FEMALE,13.0,8,8,0,left,G
+153,5.41,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","G/, /R, G/, /R, G/, /R, G/, /R,  G/, /R, G/, /R, G/, /R, G/, /R",12/8/13,FEMALE,13.0,9,9,0,right,R
+154,5.41,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","G/, /R, G/, /R, G/, /R, G/, /R,  G/, /R, G/, /R, G/, /R, G/, /R",12/8/13,FEMALE,13.0,10,10,0,left,G
+155,5.41,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","G/, /R, G/, /R, G/, /R, G/, /R,  G/, /R, G/, /R, G/, /R, G/, /R",12/8/13,FEMALE,13.0,11,11,0,right,R
+156,5.41,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","G/, /R, G/, /R, G/, /R, G/, /R,  G/, /R, G/, /R, G/, /R, G/, /R",12/8/13,FEMALE,13.0,12,12,0,left,G
+157,5.41,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","G/, /R, G/, /R, G/, /R, G/, /R,  G/, /R, G/, /R, G/, /R, G/, /R",12/8/13,FEMALE,13.0,13,13,0,right,R
+158,5.41,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","G/, /R, G/, /R, G/, /R, G/, /R,  G/, /R, G/, /R, G/, /R, G/, /R",12/8/13,FEMALE,13.0,14,14,0,left,G
+159,5.41,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","G/, /R, G/, /R, G/, /R, G/, /R,  G/, /R, G/, /R, G/, /R, G/, /R",12/8/13,FEMALE,13.0,15,15,0,right,R
+160,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,0,0,0,left,R
+161,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,1,1,0,right,G
+162,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,2,1,1,right,G
+163,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,3,2,0,left,R
+164,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,4,3,0,right,G
+165,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,5,3,1,right,G
+166,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,6,4,0,left,R
+167,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,7,5,0,right,G
+168,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,8,5,1,right,G
+169,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,9,6,0,left,R
+170,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,10,7,0,right,G
+171,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,11,7,1,right,G
+172,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,12,8,0,left,R
+173,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,13,9,0,right,G
+174,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,14,9,1,right,G
+175,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,15,10,0,left,R
+176,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,16,11,0,right,G
+177,5.41,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",12/8/13,FEMALE,13.0,17,11,1,right,G
+178,5.41,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, RB/, /GB, /GB, RB/, /GB",12/8/13,FEMALE,13.0,0,0,0,left,R
+179,5.41,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, RB/, /GB, /GB, RB/, /GB",12/8/13,FEMALE,13.0,1,0,1,left,B
+180,5.41,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, RB/, /GB, /GB, RB/, /GB",12/8/13,FEMALE,13.0,2,1,0,left,R
+181,5.41,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, RB/, /GB, /GB, RB/, /GB",12/8/13,FEMALE,13.0,3,1,1,left,B
+182,5.41,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, RB/, /GB, /GB, RB/, /GB",12/8/13,FEMALE,13.0,4,2,0,right,G
+183,5.41,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, RB/, /GB, /GB, RB/, /GB",12/8/13,FEMALE,13.0,5,2,1,right,B
+184,5.41,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, RB/, /GB, /GB, RB/, /GB",12/8/13,FEMALE,13.0,6,3,0,right,G
+185,5.41,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, RB/, /GB, /GB, RB/, /GB",12/8/13,FEMALE,13.0,7,3,1,right,B
+186,5.41,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, RB/, /GB, /GB, RB/, /GB",12/8/13,FEMALE,13.0,8,4,0,left,R
+187,5.41,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, RB/, /GB, /GB, RB/, /GB",12/8/13,FEMALE,13.0,9,4,1,left,B
+188,5.41,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, RB/, /GB, /GB, RB/, /GB",12/8/13,FEMALE,13.0,10,5,0,right,G
+189,5.41,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, RB/, /GB, /GB, RB/, /GB",12/8/13,FEMALE,13.0,11,5,1,right,B
+190,3.948,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, RR/",5/26/15,FEMALE,17.0,0,0,0,left,R
+191,3.948,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, RR/",5/26/15,FEMALE,17.0,1,1,0,right,G
+192,3.948,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, RR/",5/26/15,FEMALE,17.0,2,2,0,left,R
+193,3.948,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, RR/",5/26/15,FEMALE,17.0,3,3,0,right,G
+194,3.948,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, RR/",5/26/15,FEMALE,17.0,4,4,0,left,R
+195,3.948,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, RR/",5/26/15,FEMALE,17.0,5,5,0,right,G
+196,3.948,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, RR/",5/26/15,FEMALE,17.0,6,6,0,left,R
+197,3.948,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, RR/",5/26/15,FEMALE,17.0,7,6,1,left,R
+198,3.948,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, RR/, /GG, R/, /GG",5/26/15,FEMALE,17.0,0,0,0,left,R
+199,3.948,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, RR/, /GG, R/, /GG",5/26/15,FEMALE,17.0,1,1,0,right,G
+200,3.948,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, RR/, /GG, R/, /GG",5/26/15,FEMALE,17.0,2,1,1,right,G
+201,3.948,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, RR/, /GG, R/, /GG",5/26/15,FEMALE,17.0,3,2,0,left,R
+202,3.948,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, RR/, /GG, R/, /GG",5/26/15,FEMALE,17.0,4,3,0,right,G
+203,3.948,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, RR/, /GG, R/, /GG",5/26/15,FEMALE,17.0,5,3,1,right,G
+204,3.948,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, RR/, /GG, R/, /GG",5/26/15,FEMALE,17.0,6,4,0,left,R
+205,3.948,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, RR/, /GG, R/, /GG",5/26/15,FEMALE,17.0,7,4,1,left,R
+206,3.948,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, RR/, /GG, R/, /GG",5/26/15,FEMALE,17.0,8,5,0,right,G
+207,3.948,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, RR/, /GG, R/, /GG",5/26/15,FEMALE,17.0,9,5,1,right,G
+208,3.948,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, RR/, /GG, R/, /GG",5/26/15,FEMALE,17.0,10,6,0,left,R
+209,3.948,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, RR/, /GG, R/, /GG",5/26/15,FEMALE,17.0,11,7,0,right,G
+210,3.948,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, RR/, /GG, R/, /GG",5/26/15,FEMALE,17.0,12,7,1,right,G
+211,3.948,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GBB, RB/, RB/, /GB, RR/, /GB",5/26/15,FEMALE,17.0,0,0,0,right,G
+212,3.948,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GBB, RB/, RB/, /GB, RR/, /GB",5/26/15,FEMALE,17.0,1,0,1,right,B
+213,3.948,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GBB, RB/, RB/, /GB, RR/, /GB",5/26/15,FEMALE,17.0,2,0,2,right,B
+214,3.948,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GBB, RB/, RB/, /GB, RR/, /GB",5/26/15,FEMALE,17.0,3,1,0,left,R
+215,3.948,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GBB, RB/, RB/, /GB, RR/, /GB",5/26/15,FEMALE,17.0,4,1,1,left,B
+216,3.948,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GBB, RB/, RB/, /GB, RR/, /GB",5/26/15,FEMALE,17.0,5,2,0,left,R
+217,3.948,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GBB, RB/, RB/, /GB, RR/, /GB",5/26/15,FEMALE,17.0,6,2,1,left,B
+218,3.948,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GBB, RB/, RB/, /GB, RR/, /GB",5/26/15,FEMALE,17.0,7,3,0,right,G
+219,3.948,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GBB, RB/, RB/, /GB, RR/, /GB",5/26/15,FEMALE,17.0,8,3,1,right,B
+220,3.948,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GBB, RB/, RB/, /GB, RR/, /GB",5/26/15,FEMALE,17.0,9,4,0,left,R
+221,3.948,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GBB, RB/, RB/, /GB, RR/, /GB",5/26/15,FEMALE,17.0,10,4,1,left,R
+222,3.948,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GBB, RB/, RB/, /GB, RR/, /GB",5/26/15,FEMALE,17.0,11,5,0,right,G
+223,3.948,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GBB, RB/, RB/, /GB, RR/, /GB",5/26/15,FEMALE,17.0,12,5,1,right,B
+224,4.586,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, RR/, /GG, RR/, /GG",10/5/14,FEMALE,18.0,0,0,0,left,R
+225,4.586,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, RR/, /GG, RR/, /GG",10/5/14,FEMALE,18.0,1,1,0,right,G
+226,4.586,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, RR/, /GG, RR/, /GG",10/5/14,FEMALE,18.0,2,2,0,left,R
+227,4.586,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, RR/, /GG, RR/, /GG",10/5/14,FEMALE,18.0,3,3,0,right,G
+228,4.586,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, RR/, /GG, RR/, /GG",10/5/14,FEMALE,18.0,4,4,0,left,R
+229,4.586,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, RR/, /GG, RR/, /GG",10/5/14,FEMALE,18.0,5,5,0,right,G
+230,4.586,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, RR/, /GG, RR/, /GG",10/5/14,FEMALE,18.0,6,6,0,left,R
+231,4.586,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, RR/, /GG, RR/, /GG",10/5/14,FEMALE,18.0,7,7,0,right,G
+232,4.586,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, RR/, /GG, RR/, /GG",10/5/14,FEMALE,18.0,8,8,0,left,R
+233,4.586,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, RR/, /GG, RR/, /GG",10/5/14,FEMALE,18.0,9,8,1,left,R
+234,4.586,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, RR/, /GG, RR/, /GG",10/5/14,FEMALE,18.0,10,9,0,right,G
+235,4.586,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, RR/, /GG, RR/, /GG",10/5/14,FEMALE,18.0,11,9,1,right,G
+236,4.586,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, RR/, /GG, RR/, /GG",10/5/14,FEMALE,18.0,12,10,0,left,R
+237,4.586,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, RR/, /GG, RR/, /GG",10/5/14,FEMALE,18.0,13,10,1,left,R
+238,4.586,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, RR/, /GG, RR/, /GG",10/5/14,FEMALE,18.0,14,11,0,right,G
+239,4.586,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, RR/, /GG, RR/, /GG",10/5/14,FEMALE,18.0,15,11,1,right,G
+240,4.586,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, /G, R/, /G",10/5/14,FEMALE,18.0,0,0,0,left,R
+241,4.586,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, /G, R/, /G",10/5/14,FEMALE,18.0,1,1,0,right,G
+242,4.586,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, /G, R/, /G",10/5/14,FEMALE,18.0,2,2,0,left,R
+243,4.586,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, /G, R/, /G",10/5/14,FEMALE,18.0,3,3,0,right,G
+244,4.586,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, /G, R/, /G",10/5/14,FEMALE,18.0,4,4,0,left,R
+245,4.586,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, /G, R/, /G",10/5/14,FEMALE,18.0,5,5,0,right,G
+246,4.586,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GRBc/, /G, mR/G, R/, /GB",10/5/14,FEMALE,18.0,0,0,0,left,G
+247,4.586,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GRBc/, /G, mR/G, R/, /GB",10/5/14,FEMALE,18.0,1,0,1,left,R
+248,4.586,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GRBc/, /G, mR/G, R/, /GB",10/5/14,FEMALE,18.0,2,0,0,right,B
+249,4.586,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GRBc/, /G, mR/G, R/, /GB",10/5/14,FEMALE,18.0,3,1,0,right,G
+250,4.586,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GRBc/, /G, mR/G, R/, /GB",10/5/14,FEMALE,18.0,4,2,0,left,R
+251,4.586,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GRBc/, /G, mR/G, R/, /GB",10/5/14,FEMALE,18.0,5,2,0,right,G
+252,4.586,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GRBc/, /G, mR/G, R/, /GB",10/5/14,FEMALE,18.0,6,3,0,left,R
+253,4.586,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GRBc/, /G, mR/G, R/, /GB",10/5/14,FEMALE,18.0,7,4,0,right,G
+254,4.586,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GRBc/, /G, mR/G, R/, /GB",10/5/14,FEMALE,18.0,8,4,1,right,B
+255,3.9210000000000003,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/R, G/, G/b, /R, G/, /R, G/, /R, /RR, m/RRRGc, G/",6/5/15,FEMALE,19.0,0,0,0,right,R
+256,3.9210000000000003,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/R, G/, G/b, /R, G/, /R, G/, /R, /RR, m/RRRGc, G/",6/5/15,FEMALE,19.0,1,1,0,left,G
+257,3.9210000000000003,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/R, G/, G/b, /R, G/, /R, G/, /R, /RR, m/RRRGc, G/",6/5/15,FEMALE,19.0,2,2,0,left,G
+258,3.9210000000000003,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/R, G/, G/b, /R, G/, /R, G/, /R, /RR, m/RRRGc, G/",6/5/15,FEMALE,19.0,3,3,0,right,R
+259,3.9210000000000003,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/R, G/, G/b, /R, G/, /R, G/, /R, /RR, m/RRRGc, G/",6/5/15,FEMALE,19.0,4,4,0,left,G
+260,3.9210000000000003,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/R, G/, G/b, /R, G/, /R, G/, /R, /RR, m/RRRGc, G/",6/5/15,FEMALE,19.0,5,5,0,right,R
+261,3.9210000000000003,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/R, G/, G/b, /R, G/, /R, G/, /R, /RR, m/RRRGc, G/",6/5/15,FEMALE,19.0,6,6,0,left,G
+262,3.9210000000000003,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/R, G/, G/b, /R, G/, /R, G/, /R, /RR, m/RRRGc, G/",6/5/15,FEMALE,19.0,7,7,0,right,R
+263,3.9210000000000003,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/R, G/, G/b, /R, G/, /R, G/, /R, /RR, m/RRRGc, G/",6/5/15,FEMALE,19.0,8,8,0,right,R
+264,3.9210000000000003,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/R, G/, G/b, /R, G/, /R, G/, /R, /RR, m/RRRGc, G/",6/5/15,FEMALE,19.0,9,8,1,right,R
+265,3.9210000000000003,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/R, G/, G/b, /R, G/, /R, G/, /R, /RR, m/RRRGc, G/",6/5/15,FEMALE,19.0,10,9,0,left,G
+266,3.9210000000000003,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/R, G/, G/b, /R, G/, /R, G/, /R, /RR, m/RRRGc, G/",6/5/15,FEMALE,19.0,11,9,0,right,R
+267,3.9210000000000003,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/R, G/, G/b, /R, G/, /R, G/, /R, /RR, m/RRRGc, G/",6/5/15,FEMALE,19.0,12,9,1,right,R
+268,3.9210000000000003,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/R, G/, G/b, /R, G/, /R, G/, /R, /RR, m/RRRGc, G/",6/5/15,FEMALE,19.0,13,9,2,right,R
+269,3.9210000000000003,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/R, G/, G/b, /R, G/, /R, G/, /R, /RR, m/RRRGc, G/",6/5/15,FEMALE,19.0,14,10,0,left,G
+270,3.9210000000000003,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, /mR, GGG/, /mR, mG/",6/5/15,FEMALE,19.0,0,0,0,left,G
+271,3.9210000000000003,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, /mR, GGG/, /mR, mG/",6/5/15,FEMALE,19.0,1,1,0,right,R
+272,3.9210000000000003,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, /mR, GGG/, /mR, mG/",6/5/15,FEMALE,19.0,2,1,1,right,R
+273,3.9210000000000003,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, /mR, GGG/, /mR, mG/",6/5/15,FEMALE,19.0,3,2,0,right,R
+274,3.9210000000000003,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, /mR, GGG/, /mR, mG/",6/5/15,FEMALE,19.0,4,3,0,left,G
+275,3.9210000000000003,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, /mR, GGG/, /mR, mG/",6/5/15,FEMALE,19.0,5,3,1,left,G
+276,3.9210000000000003,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, /mR, GGG/, /mR, mG/",6/5/15,FEMALE,19.0,6,3,2,left,G
+277,3.9210000000000003,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, /mR, GGG/, /mR, mG/",6/5/15,FEMALE,19.0,7,4,0,right,R
+278,3.9210000000000003,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, /mR, GGG/, /mR, mG/",6/5/15,FEMALE,19.0,8,5,0,left,G
+279,3.9210000000000003,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","R/, /mB, mRR/G, mRG/, /mB, /mB",6/5/15,FEMALE,19.0,0,0,0,left,R
+280,3.9210000000000003,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","R/, /mB, mRR/G, mRG/, /mB, /mB",6/5/15,FEMALE,19.0,1,1,0,right,B
+281,3.9210000000000003,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","R/, /mB, mRR/G, mRG/, /mB, /mB",6/5/15,FEMALE,19.0,2,2,0,left,R
+282,3.9210000000000003,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","R/, /mB, mRR/G, mRG/, /mB, /mB",6/5/15,FEMALE,19.0,3,2,1,left,R
+283,3.9210000000000003,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","R/, /mB, mRR/G, mRG/, /mB, /mB",6/5/15,FEMALE,19.0,4,2,0,right,G
+284,3.9210000000000003,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","R/, /mB, mRR/G, mRG/, /mB, /mB",6/5/15,FEMALE,19.0,5,3,0,left,R
+285,3.9210000000000003,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","R/, /mB, mRR/G, mRG/, /mB, /mB",6/5/15,FEMALE,19.0,6,3,1,left,G
+286,3.9210000000000003,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","R/, /mB, mRR/G, mRG/, /mB, /mB",6/5/15,FEMALE,19.0,7,4,0,right,B
+287,3.9210000000000003,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","R/, /mB, mRR/G, mRG/, /mB, /mB",6/5/15,FEMALE,19.0,8,5,0,right,B
+288,3.912,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G",6/8/15,MALE,21.0,0,0,0,left,R
+289,3.912,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G",6/8/15,MALE,21.0,1,1,0,right,G
+290,3.912,DOUBLE,"/G, RR/, /G, RR/, /G, RR/, /G, RR/","RR/, /G",6/8/15,MALE,21.0,0,0,0,left,R
+291,3.912,DOUBLE,"/G, RR/, /G, RR/, /G, RR/, /G, RR/","RR/, /G",6/8/15,MALE,21.0,1,0,1,left,R
+292,3.912,DOUBLE,"/G, RR/, /G, RR/, /G, RR/, /G, RR/","RR/, /G",6/8/15,MALE,21.0,2,1,0,right,G
+293,3.912,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/RB, GB/",6/8/15,MALE,21.0,0,0,0,right,R
+294,3.912,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/RB, GB/",6/8/15,MALE,21.0,1,0,1,right,B
+295,3.912,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/RB, GB/",6/8/15,MALE,21.0,2,1,0,left,G
+296,3.912,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/RB, GB/",6/8/15,MALE,21.0,3,1,1,left,B
+297,5.117,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",3/25/14,MALE,22.0,0,0,0,left,R
+298,5.117,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",3/25/14,MALE,22.0,1,1,0,right,G
+299,5.117,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",3/25/14,MALE,22.0,2,2,0,left,R
+300,5.117,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",3/25/14,MALE,22.0,3,3,0,right,G
+301,5.117,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",3/25/14,MALE,22.0,4,4,0,left,R
+302,5.117,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",3/25/14,MALE,22.0,5,5,0,right,G
+303,5.117,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",3/25/14,MALE,22.0,6,6,0,left,R
+304,5.117,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",3/25/14,MALE,22.0,7,7,0,right,G
+305,5.117,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",3/25/14,MALE,22.0,8,8,0,left,R
+306,5.117,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",3/25/14,MALE,22.0,9,9,0,right,G
+307,5.117,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",3/25/14,MALE,22.0,0,0,0,left,R
+308,5.117,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",3/25/14,MALE,22.0,1,1,0,right,G
+309,5.117,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",3/25/14,MALE,22.0,2,1,1,right,G
+310,5.117,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",3/25/14,MALE,22.0,3,2,0,left,R
+311,5.117,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",3/25/14,MALE,22.0,4,3,0,right,G
+312,5.117,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",3/25/14,MALE,22.0,5,3,1,right,G
+313,5.117,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",3/25/14,MALE,22.0,6,4,0,left,R
+314,5.117,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",3/25/14,MALE,22.0,7,5,0,right,G
+315,5.117,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",3/25/14,MALE,22.0,8,5,1,right,G
+316,5.117,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",3/25/14,MALE,22.0,9,6,0,left,R
+317,5.117,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",3/25/14,MALE,22.0,10,7,0,right,G
+318,5.117,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",3/25/14,MALE,22.0,11,7,1,right,G
+319,5.117,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",3/25/14,MALE,22.0,12,8,0,left,R
+320,5.117,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",3/25/14,MALE,22.0,13,9,0,right,G
+321,5.117,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",3/25/14,MALE,22.0,14,9,1,right,G
+322,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,0,0,0,left,R
+323,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,1,0,1,left,B
+324,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,2,1,0,right,G
+325,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,3,1,1,right,B
+326,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,4,2,0,left,R
+327,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,5,2,1,left,B
+328,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,6,3,0,right,G
+329,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,7,3,1,right,B
+330,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,8,4,0,left,R
+331,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,9,4,1,left,B
+332,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,10,5,0,right,G
+333,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,11,5,1,right,B
+334,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,12,6,0,left,R
+335,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,13,6,1,left,B
+336,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,14,7,0,right,G
+337,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,15,7,1,right,B
+338,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,16,8,0,left,R
+339,5.117,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",3/25/14,MALE,22.0,17,8,1,left,B
+340,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,0,0,0,right,G
+341,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,1,1,0,left,R
+342,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,2,2,0,right,G
+343,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,3,3,0,left,R
+344,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,4,4,0,left,R
+345,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,5,5,0,right,G
+346,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,6,6,0,left,R
+347,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,7,7,0,right,G
+348,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,8,8,0,left,R
+349,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,9,9,0,right,G
+350,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,10,10,0,left,R
+351,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,11,10,1,left,R
+352,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,12,11,0,right,G
+353,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,13,11,1,right,G
+354,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,14,12,0,right,G
+355,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,15,13,0,right,G
+356,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,16,14,0,right,G
+357,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,17,15,0,right,G
+358,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,18,16,0,right,G
+359,5.311,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",1/13/14,MALE,25.0,19,17,0,right,G
+360,5.311,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","/GG, /GG, /GG, /GG",1/13/14,MALE,25.0,0,0,0,right,G
+361,5.311,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","/GG, /GG, /GG, /GG",1/13/14,MALE,25.0,1,0,1,right,G
+362,5.311,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","/GG, /GG, /GG, /GG",1/13/14,MALE,25.0,2,1,0,right,G
+363,5.311,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","/GG, /GG, /GG, /GG",1/13/14,MALE,25.0,3,1,1,right,G
+364,5.311,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","/GG, /GG, /GG, /GG",1/13/14,MALE,25.0,4,2,0,right,G
+365,5.311,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","/GG, /GG, /GG, /GG",1/13/14,MALE,25.0,5,2,1,right,G
+366,5.311,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","/GG, /GG, /GG, /GG",1/13/14,MALE,25.0,6,3,0,right,G
+367,5.311,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","/GG, /GG, /GG, /GG",1/13/14,MALE,25.0,7,3,1,right,G
+368,5.311,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ",mRGB/RGB,1/13/14,MALE,25.0,0,0,0,left,R
+369,5.311,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ",mRGB/RGB,1/13/14,MALE,25.0,1,0,1,left,G
+370,5.311,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ",mRGB/RGB,1/13/14,MALE,25.0,2,0,2,left,B
+371,5.311,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ",mRGB/RGB,1/13/14,MALE,25.0,3,0,0,right,R
+372,5.311,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ",mRGB/RGB,1/13/14,MALE,25.0,4,0,1,right,G
+373,5.311,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ",mRGB/RGB,1/13/14,MALE,25.0,5,0,2,right,B
+374,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,0,0,0,left,R
+375,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,1,1,0,right,G
+376,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,2,2,0,left,R
+377,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,3,3,0,right,G
+378,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,4,4,0,left,R
+379,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,5,5,0,right,G
+380,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,6,6,0,left,R
+381,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,7,7,0,right,G
+382,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,8,8,0,left,R
+383,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,9,9,0,left,R
+384,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,10,10,0,right,G
+385,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,11,10,1,right,G
+386,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,12,11,0,right,G
+387,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,13,11,1,right,G
+388,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,14,12,0,left,R
+389,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,15,13,0,left,R
+390,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,16,14,0,right,G
+391,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,17,14,1,right,G
+392,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,18,15,0,left,R
+393,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,19,15,1,left,R
+394,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,20,15,0,right,G
+395,5.136,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",3/18/14,MALE,26.0,21,16,0,right,G
+396,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,0,0,0,left,R
+397,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,1,1,0,left,R
+398,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,2,2,0,right,G
+399,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,3,2,1,right,G
+400,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,4,3,0,left,R
+401,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,5,4,0,right,G
+402,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,6,4,1,right,G
+403,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,7,5,0,left,R
+404,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,8,6,0,right,G
+405,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,9,6,1,right,G
+406,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,10,7,0,left,R
+407,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,11,7,1,left,R
+408,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,12,8,0,right,G
+409,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,13,8,1,right,G
+410,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,14,9,0,left,R
+411,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,15,10,0,right,G
+412,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,16,10,1,right,G
+413,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,17,11,0,left,R
+414,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,18,12,0,right,G
+415,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,19,12,1,right,G
+416,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,20,13,0,left,R
+417,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,21,13,1,left,R
+418,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,22,14,0,left,R
+419,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,23,15,0,right,G
+420,5.136,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3/18/14,MALE,26.0,24,15,1,right,G
+421,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,0,0,0,left,G
+422,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,1,0,1,left,B
+423,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,2,1,0,left,R
+424,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,3,1,1,left,G
+425,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,4,2,0,left,R
+426,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,5,2,1,left,G
+427,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,6,3,0,right,R
+428,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,7,3,1,right,G
+429,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,8,4,0,right,R
+430,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,9,5,0,left,B
+431,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,10,5,1,left,B
+432,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,11,6,0,left,G
+433,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,12,6,1,left,B
+434,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,13,7,0,right,R
+435,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,14,7,1,right,G
+436,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,15,8,0,left,G
+437,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,16,8,1,left,B
+438,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,17,9,0,left,R
+439,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,18,9,1,left,R
+440,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,19,10,0,left,R
+441,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,20,10,1,left,G
+442,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,21,11,0,right,B
+443,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,22,11,1,right,B
+444,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,23,12,0,right,G
+445,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,24,12,1,right,B
+446,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,25,13,0,right,R
+447,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,26,13,1,right,B
+448,5.136,HITCH,"GB/, /RB, GB/, /RB, GB/, /RB, GB/, ","GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",3/18/14,MALE,26.0,27,14,0,left,B
+449,5.09,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /GRc, R/, /GRc, R/, /G, R/, /G, R/, /G ",4/4/14,FEMALE,27.0,0,0,0,left,R
+450,5.09,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /GRc, R/, /GRc, R/, /G, R/, /G, R/, /G ",4/4/14,FEMALE,27.0,1,1,0,left,R
+451,5.09,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /GRc, R/, /GRc, R/, /G, R/, /G, R/, /G ",4/4/14,FEMALE,27.0,2,1,0,right,G
+452,5.09,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /GRc, R/, /GRc, R/, /G, R/, /G, R/, /G ",4/4/14,FEMALE,27.0,3,2,0,left,R
+453,5.09,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /GRc, R/, /GRc, R/, /G, R/, /G, R/, /G ",4/4/14,FEMALE,27.0,4,3,0,left,R
+454,5.09,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /GRc, R/, /GRc, R/, /G, R/, /G, R/, /G ",4/4/14,FEMALE,27.0,5,3,0,right,G
+455,5.09,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /GRc, R/, /GRc, R/, /G, R/, /G, R/, /G ",4/4/14,FEMALE,27.0,6,4,0,left,R
+456,5.09,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /GRc, R/, /GRc, R/, /G, R/, /G, R/, /G ",4/4/14,FEMALE,27.0,7,5,0,right,G
+457,5.09,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /GRc, R/, /GRc, R/, /G, R/, /G, R/, /G ",4/4/14,FEMALE,27.0,8,6,0,left,R
+458,5.09,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /GRc, R/, /GRc, R/, /G, R/, /G, R/, /G ",4/4/14,FEMALE,27.0,9,7,0,right,G
+459,5.09,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /GRc, R/, /GRc, R/, /G, R/, /G, R/, /G ",4/4/14,FEMALE,27.0,10,8,0,left,R
+460,5.09,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /GRc, R/, /GRc, R/, /G, R/, /G, R/, /G ",4/4/14,FEMALE,27.0,11,9,0,right,G
+461,5.09,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR, G/, /RR",4/4/14,FEMALE,27.0,0,0,0,left,G
+462,5.09,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR, G/, /RR",4/4/14,FEMALE,27.0,1,1,0,right,R
+463,5.09,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR, G/, /RR",4/4/14,FEMALE,27.0,2,1,1,right,R
+464,5.09,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR, G/, /RR",4/4/14,FEMALE,27.0,3,2,0,left,G
+465,5.09,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR, G/, /RR",4/4/14,FEMALE,27.0,4,3,0,right,R
+466,5.09,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR, G/, /RR",4/4/14,FEMALE,27.0,5,3,1,right,R
+467,5.09,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR, G/, /RR",4/4/14,FEMALE,27.0,6,4,0,left,G
+468,5.09,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR, G/, /RR",4/4/14,FEMALE,27.0,7,5,0,right,R
+469,5.09,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR, G/, /RR",4/4/14,FEMALE,27.0,8,5,1,right,R
+470,5.09,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR, G/, /RR",4/4/14,FEMALE,27.0,9,6,0,left,G
+471,5.09,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR, G/, /RR",4/4/14,FEMALE,27.0,10,7,0,right,R
+472,5.09,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR, G/, /RR",4/4/14,FEMALE,27.0,11,7,1,right,R
+473,5.09,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR, G/, /RR",4/4/14,FEMALE,27.0,12,8,0,left,G
+474,5.09,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR, G/, /RR",4/4/14,FEMALE,27.0,13,9,0,right,R
+475,5.09,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","G/, /RR, G/, /RR, G/, /RR, G/, /RR, G/, /RR",4/4/14,FEMALE,27.0,14,9,1,right,R
+476,5.09,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",4/4/14,FEMALE,27.0,0,0,0,left,R
+477,5.09,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",4/4/14,FEMALE,27.0,1,0,1,left,B
+478,5.09,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",4/4/14,FEMALE,27.0,2,1,0,right,G
+479,5.09,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",4/4/14,FEMALE,27.0,3,1,1,right,B
+480,5.09,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",4/4/14,FEMALE,27.0,4,2,0,left,R
+481,5.09,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",4/4/14,FEMALE,27.0,5,2,1,left,B
+482,5.09,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",4/4/14,FEMALE,27.0,6,3,0,right,G
+483,5.09,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",4/4/14,FEMALE,27.0,7,3,1,right,B
+484,5.09,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",4/4/14,FEMALE,27.0,8,4,0,left,R
+485,5.09,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",4/4/14,FEMALE,27.0,9,4,1,left,B
+486,5.09,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",4/4/14,FEMALE,27.0,10,5,0,right,G
+487,5.09,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",4/4/14,FEMALE,27.0,11,5,1,right,B
+488,5.09,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",4/4/14,FEMALE,27.0,12,5,2,right,B
+489,5.09,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",4/4/14,FEMALE,27.0,13,6,0,left,R
+490,5.09,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",4/4/14,FEMALE,27.0,14,6,1,left,B
+491,5.09,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",4/4/14,FEMALE,27.0,15,7,0,right,G
+492,5.09,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",4/4/14,FEMALE,27.0,16,7,1,right,B
+493,4.038,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, R/",4/23/15,FEMALE,28.0,0,0,0,left,R
+494,4.038,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, R/",4/23/15,FEMALE,28.0,1,1,0,left,R
+495,4.038,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, G/, /R, G/",4/23/15,FEMALE,28.0,0,0,0,right,R
+496,4.038,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, G/, /R, G/",4/23/15,FEMALE,28.0,1,1,0,left,G
+497,4.038,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, G/, /R, G/",4/23/15,FEMALE,28.0,2,2,0,right,R
+498,4.038,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","/R, G/, /R, G/",4/23/15,FEMALE,28.0,3,3,0,left,G
+499,4.038,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, B/",4/23/15,FEMALE,28.0,0,0,0,left,R
+500,4.038,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, B/",4/23/15,FEMALE,28.0,1,0,1,left,B
+501,4.038,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, B/",4/23/15,FEMALE,28.0,2,1,0,left,B
+502,3.247,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, /Rc, R/, /G, R/, /G, /G, /R, /G",2/6/16,FEMALE,29.0,0,0,0,left,R
+503,3.247,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, /Rc, R/, /G, R/, /G, /G, /R, /G",2/6/16,FEMALE,29.0,1,1,0,right,G
+504,3.247,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, /Rc, R/, /G, R/, /G, /G, /R, /G",2/6/16,FEMALE,29.0,2,2,0,left,R
+505,3.247,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, /Rc, R/, /G, R/, /G, /G, /R, /G",2/6/16,FEMALE,29.0,3,3,0,left,R
+506,3.247,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, /Rc, R/, /G, R/, /G, /G, /R, /G",2/6/16,FEMALE,29.0,4,4,0,right,G
+507,3.247,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, /Rc, R/, /G, R/, /G, /G, /R, /G",2/6/16,FEMALE,29.0,5,5,0,left,R
+508,3.247,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, /Rc, R/, /G, R/, /G, /G, /R, /G",2/6/16,FEMALE,29.0,6,6,0,right,G
+509,3.247,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, /Rc, R/, /G, R/, /G, /G, /R, /G",2/6/16,FEMALE,29.0,7,7,0,right,G
+510,3.247,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, /Rc, R/, /G, R/, /G, /G, /R, /G",2/6/16,FEMALE,29.0,8,8,0,right,R
+511,3.247,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, /Rc, R/, /G, R/, /G, /G, /R, /G",2/6/16,FEMALE,29.0,9,9,0,right,G
+512,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,0,0,0,left,R
+513,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,1,0,0,right,G
+514,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,2,0,1,right,G
+515,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,3,1,0,left,R
+516,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,4,1,1,left,R
+517,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,5,2,0,left,R
+518,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,6,2,1,left,G
+519,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,7,3,0,right,G
+520,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,8,4,0,right,G
+521,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,9,5,0,right,G
+522,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,10,5,1,right,G
+523,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,11,6,0,left,R
+524,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,12,6,1,left,R
+525,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,13,6,0,right,G
+526,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,14,7,0,left,R
+527,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,15,7,0,right,G
+528,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,16,8,0,left,R
+529,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,17,8,0,right,G
+530,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,18,9,0,left,R
+531,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,19,9,0,right,G
+532,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,20,10,0,left,R
+533,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,21,10,0,right,G
+534,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,22,11,0,right,R
+535,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,23,12,0,right,G
+536,3.247,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",2/6/16,FEMALE,29.0,24,13,0,left,R
+537,4.914,SORT,"/R, G/, /R, G/, /R, G/, /R, G/","/R, G/, Rcb/, G/, /R, G/, /R, G/, /R",6/7/14,FEMALE,30.0,0,0,0,right,R
+538,4.914,SORT,"/R, G/, /R, G/, /R, G/, /R, G/","/R, G/, Rcb/, G/, /R, G/, /R, G/, /R",6/7/14,FEMALE,30.0,1,1,0,left,G
+539,4.914,SORT,"/R, G/, /R, G/, /R, G/, /R, G/","/R, G/, Rcb/, G/, /R, G/, /R, G/, /R",6/7/14,FEMALE,30.0,2,2,0,right,R
+540,4.914,SORT,"/R, G/, /R, G/, /R, G/, /R, G/","/R, G/, Rcb/, G/, /R, G/, /R, G/, /R",6/7/14,FEMALE,30.0,3,3,0,left,G
+541,4.914,SORT,"/R, G/, /R, G/, /R, G/, /R, G/","/R, G/, Rcb/, G/, /R, G/, /R, G/, /R",6/7/14,FEMALE,30.0,4,4,0,right,R
+542,4.914,SORT,"/R, G/, /R, G/, /R, G/, /R, G/","/R, G/, Rcb/, G/, /R, G/, /R, G/, /R",6/7/14,FEMALE,30.0,5,5,0,left,G
+543,4.914,SORT,"/R, G/, /R, G/, /R, G/, /R, G/","/R, G/, Rcb/, G/, /R, G/, /R, G/, /R",6/7/14,FEMALE,30.0,6,6,0,right,R
+544,4.914,SORT,"/R, G/, /R, G/, /R, G/, /R, G/","/R, G/, Rcb/, G/, /R, G/, /R, G/, /R",6/7/14,FEMALE,30.0,7,7,0,left,G
+545,4.914,SORT,"/R, G/, /R, G/, /R, G/, /R, G/","/R, G/, Rcb/, G/, /R, G/, /R, G/, /R",6/7/14,FEMALE,30.0,8,8,0,right,R
+546,4.914,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, /G, /G, mRR/GG",6/7/14,FEMALE,30.0,0,0,0,left,R
+547,4.914,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, /G, /G, mRR/GG",6/7/14,FEMALE,30.0,1,1,0,right,G
+548,4.914,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, /G, /G, mRR/GG",6/7/14,FEMALE,30.0,2,2,0,left,R
+549,4.914,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, /G, /G, mRR/GG",6/7/14,FEMALE,30.0,3,3,0,right,G
+550,4.914,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, /G, /G, mRR/GG",6/7/14,FEMALE,30.0,4,4,0,right,G
+551,4.914,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, /G, /G, mRR/GG",6/7/14,FEMALE,30.0,5,5,0,left,R
+552,4.914,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, /G, /G, mRR/GG",6/7/14,FEMALE,30.0,6,5,1,left,R
+553,4.914,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, /G, /G, mRR/GG",6/7/14,FEMALE,30.0,7,5,0,right,G
+554,4.914,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, /G, /G, mRR/GG",6/7/14,FEMALE,30.0,8,5,1,right,G
+555,4.914,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, /GB, RB/, /GB",6/7/14,FEMALE,30.0,0,0,0,left,R
+556,4.914,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, /GB, RB/, /GB",6/7/14,FEMALE,30.0,1,0,1,left,B
+557,4.914,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, /GB, RB/, /GB",6/7/14,FEMALE,30.0,2,1,0,right,G
+558,4.914,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, /GB, RB/, /GB",6/7/14,FEMALE,30.0,3,1,1,right,B
+559,4.914,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, /GB, RB/, /GB",6/7/14,FEMALE,30.0,4,2,0,left,R
+560,4.914,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, /GB, RB/, /GB",6/7/14,FEMALE,30.0,5,2,1,left,B
+561,4.914,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, /GB, RB/, /GB",6/7/14,FEMALE,30.0,6,3,0,right,G
+562,4.914,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, /GB, RB/, /GB",6/7/14,FEMALE,30.0,7,3,1,right,B
+563,4.914,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, /GB, RB/, /GB",6/7/14,FEMALE,30.0,8,4,0,right,G
+564,4.914,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, /GB, RB/, /GB",6/7/14,FEMALE,30.0,9,4,1,right,B
+565,4.914,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, /GB, RB/, /GB",6/7/14,FEMALE,30.0,10,5,0,left,R
+566,4.914,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, /GB, RB/, /GB",6/7/14,FEMALE,30.0,11,5,1,left,B
+567,4.914,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, /GB, RB/, /GB",6/7/14,FEMALE,30.0,12,6,0,right,G
+568,4.914,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, /GB, RB/, /GB",6/7/14,FEMALE,30.0,13,6,1,right,B
+569,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,0,0,0,left,R
+570,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,1,1,0,right,G
+571,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,2,2,0,left,R
+572,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,3,3,0,left,R
+573,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,4,3,1,left,R
+574,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,5,3,2,left,R
+575,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,6,4,0,right,G
+576,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,7,5,0,left,R
+577,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,8,5,1,left,R
+578,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,9,6,0,right,G
+579,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,10,7,0,left,R
+580,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,11,8,0,right,G
+581,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,12,9,0,left,R
+582,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,13,10,0,right,G
+583,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,14,11,0,left,R
+584,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,15,12,0,right,G
+585,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,16,13,0,left,R
+586,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,17,14,0,right,G
+587,4.123,SORT,"R/, /G, R/, /G, R/, /G, R/, /G ","R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",3/23/15,MALE,32.0,18,15,0,left,R
+588,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,0,0,0,left,G
+589,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,1,0,1,left,G
+590,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,2,0,2,left,G
+591,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,3,0,0,right,R
+592,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,4,0,1,right,R
+593,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,5,1,0,left,G
+594,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,6,1,0,right,R
+595,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,7,1,1,right,R
+596,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,8,2,0,left,G
+597,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,9,2,0,right,R
+598,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,10,2,1,right,R
+599,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,11,3,0,left,G
+600,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,12,3,0,right,R
+601,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,13,3,1,right,R
+602,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,14,4,0,left,G
+603,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,15,4,0,right,R
+604,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,16,5,0,left,G
+605,4.123,DOUBLE,"G/, /RR, G/, /RR, G/, /RR, G/, /RR","mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",3/23/15,MALE,32.0,17,5,0,right,R
+606,4.123,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GB, R/, mGRR/, B/, /B, R/, /GG, R/",3/23/15,MALE,32.0,0,0,0,right,G
+607,4.123,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GB, R/, mGRR/, B/, /B, R/, /GG, R/",3/23/15,MALE,32.0,1,0,1,right,B
+608,4.123,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GB, R/, mGRR/, B/, /B, R/, /GG, R/",3/23/15,MALE,32.0,2,1,0,left,R
+609,4.123,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GB, R/, mGRR/, B/, /B, R/, /GG, R/",3/23/15,MALE,32.0,3,2,0,left,G
+610,4.123,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GB, R/, mGRR/, B/, /B, R/, /GG, R/",3/23/15,MALE,32.0,4,2,1,left,R
+611,4.123,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GB, R/, mGRR/, B/, /B, R/, /GG, R/",3/23/15,MALE,32.0,5,2,2,left,R
+612,4.123,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GB, R/, mGRR/, B/, /B, R/, /GG, R/",3/23/15,MALE,32.0,6,3,0,left,B
+613,4.123,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GB, R/, mGRR/, B/, /B, R/, /GG, R/",3/23/15,MALE,32.0,7,4,0,right,B
+614,4.123,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GB, R/, mGRR/, B/, /B, R/, /GG, R/",3/23/15,MALE,32.0,8,5,0,left,R
+615,4.123,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GB, R/, mGRR/, B/, /B, R/, /GG, R/",3/23/15,MALE,32.0,9,6,0,right,G
+616,4.123,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GB, R/, mGRR/, B/, /B, R/, /GG, R/",3/23/15,MALE,32.0,10,6,1,right,G
+617,4.123,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","/GB, R/, mGRR/, B/, /B, R/, /GG, R/",3/23/15,MALE,32.0,11,7,0,left,R
+618,3.658,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, RRR/, Rm/, /G",9/9/15,FEMALE,34.0,0,0,0,left,R
+619,3.658,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, RRR/, Rm/, /G",9/9/15,FEMALE,34.0,1,1,0,right,G
+620,3.658,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, RRR/, Rm/, /G",9/9/15,FEMALE,34.0,2,2,0,left,R
+621,3.658,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, RRR/, Rm/, /G",9/9/15,FEMALE,34.0,3,2,1,left,R
+622,3.658,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, RRR/, Rm/, /G",9/9/15,FEMALE,34.0,4,2,2,left,R
+623,3.658,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, RRR/, Rm/, /G",9/9/15,FEMALE,34.0,5,3,0,left,R
+624,3.658,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, RRR/, Rm/, /G",9/9/15,FEMALE,34.0,6,4,0,right,G
+625,3.658,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","RR/, R/, RR/, R/, /G, RR/, RR/, /GG, /GGG",9/9/15,FEMALE,34.0,0,0,0,left,R
+626,3.658,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","RR/, R/, RR/, R/, /G, RR/, RR/, /GG, /GGG",9/9/15,FEMALE,34.0,1,0,1,left,R
+627,3.658,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","RR/, R/, RR/, R/, /G, RR/, RR/, /GG, /GGG",9/9/15,FEMALE,34.0,2,1,0,left,R
+628,3.658,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","RR/, R/, RR/, R/, /G, RR/, RR/, /GG, /GGG",9/9/15,FEMALE,34.0,3,2,0,left,R
+629,3.658,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","RR/, R/, RR/, R/, /G, RR/, RR/, /GG, /GGG",9/9/15,FEMALE,34.0,4,2,1,left,R
+630,3.658,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","RR/, R/, RR/, R/, /G, RR/, RR/, /GG, /GGG",9/9/15,FEMALE,34.0,5,3,0,left,R
+631,3.658,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","RR/, R/, RR/, R/, /G, RR/, RR/, /GG, /GGG",9/9/15,FEMALE,34.0,6,4,0,right,G
+632,3.658,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","RR/, R/, RR/, R/, /G, RR/, RR/, /GG, /GGG",9/9/15,FEMALE,34.0,7,5,0,left,R
+633,3.658,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","RR/, R/, RR/, R/, /G, RR/, RR/, /GG, /GGG",9/9/15,FEMALE,34.0,8,5,1,left,R
+634,3.658,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","RR/, R/, RR/, R/, /G, RR/, RR/, /GG, /GGG",9/9/15,FEMALE,34.0,9,6,0,left,R
+635,3.658,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","RR/, R/, RR/, R/, /G, RR/, RR/, /GG, /GGG",9/9/15,FEMALE,34.0,10,6,1,left,R
+636,3.658,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","RR/, R/, RR/, R/, /G, RR/, RR/, /GG, /GGG",9/9/15,FEMALE,34.0,11,7,0,right,G
+637,3.658,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","RR/, R/, RR/, R/, /G, RR/, RR/, /GG, /GGG",9/9/15,FEMALE,34.0,12,7,1,right,G
+638,3.658,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","RR/, R/, RR/, R/, /G, RR/, RR/, /GG, /GGG",9/9/15,FEMALE,34.0,13,8,0,right,G
+639,3.658,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","RR/, R/, RR/, R/, /G, RR/, RR/, /GG, /GGG",9/9/15,FEMALE,34.0,14,8,1,right,G
+640,3.658,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","RR/, R/, RR/, R/, /G, RR/, RR/, /GG, /GGG",9/9/15,FEMALE,34.0,15,8,2,right,G
+641,3.658,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RBG/, RGBBB/ ",9/9/15,FEMALE,34.0,0,0,0,left,R
+642,3.658,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RBG/, RGBBB/ ",9/9/15,FEMALE,34.0,1,0,1,left,B
+643,3.658,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RBG/, RGBBB/ ",9/9/15,FEMALE,34.0,2,0,2,left,G
+644,3.658,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RBG/, RGBBB/ ",9/9/15,FEMALE,34.0,3,1,0,left,R
+645,3.658,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RBG/, RGBBB/ ",9/9/15,FEMALE,34.0,4,1,1,left,G
+646,3.658,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RBG/, RGBBB/ ",9/9/15,FEMALE,34.0,5,1,2,left,B
+647,3.658,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RBG/, RGBBB/ ",9/9/15,FEMALE,34.0,6,1,3,left,B
+648,3.658,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RBG/, RGBBB/ ",9/9/15,FEMALE,34.0,7,1,4,left,B
+649,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, R/, /G, R/, /G",,FEMALE,36.0,0,0,0,left,R
+650,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, R/, /G, R/, /G",,FEMALE,36.0,1,1,0,right,G
+651,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, R/, /G, R/, /G",,FEMALE,36.0,2,2,0,left,R
+652,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, R/, /G, R/, /G",,FEMALE,36.0,3,3,0,right,G
+653,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, R/, /G, R/, /G",,FEMALE,36.0,4,4,0,left,R
+654,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, R/, /G, R/, /G",,FEMALE,36.0,5,5,0,right,G
+655,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, R/, /G, R/, /G",,FEMALE,36.0,6,6,0,left,R
+656,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, R/, /G, R/, /G",,FEMALE,36.0,7,7,0,left,R
+657,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, R/, /G, R/, /G",,FEMALE,36.0,8,8,0,right,G
+658,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, R/, /G, R/, /G",,FEMALE,36.0,9,9,0,left,R
+659,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, R/, /G, R/, /G",,FEMALE,36.0,10,10,0,right,G
+660,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,0,0,0,left,R
+661,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,1,1,0,right,G
+662,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,2,1,1,right,G
+663,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,3,2,0,left,R
+664,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,4,3,0,right,G
+665,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,5,3,1,right,G
+666,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,6,4,0,left,R
+667,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,7,5,0,right,G
+668,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,8,5,1,right,G
+669,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,9,6,0,left,R
+670,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,10,7,0,right,G
+671,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,11,7,1,right,G
+672,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,12,8,0,left,R
+673,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,13,9,0,right,G
+674,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,14,9,1,right,G
+675,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,15,10,0,left,R
+676,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,16,11,0,right,G
+677,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,17,11,1,right,G
+678,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,18,12,0,left,R
+679,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,19,13,0,right,G
+680,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,20,13,1,right,G
+681,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/",,FEMALE,36.0,21,14,0,left,R
+682,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,0,0,0,left,R
+683,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,1,0,1,left,B
+684,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,2,1,0,right,G
+685,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,3,1,1,right,B
+686,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,4,2,0,left,R
+687,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,5,2,1,left,B
+688,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,6,3,0,right,G
+689,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,7,3,1,right,B
+690,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,8,4,0,left,R
+691,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,9,4,1,left,B
+692,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,10,5,0,right,G
+693,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,11,5,1,right,B
+694,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,12,6,0,left,R
+695,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,13,6,1,left,B
+696,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,14,7,0,right,G
+697,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,15,7,1,right,B
+698,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,16,8,0,left,R
+699,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,17,8,1,left,B
+700,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,18,9,0,right,G
+701,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,19,9,1,right,B
+702,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,20,10,0,left,R
+703,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,21,10,1,left,B
+704,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,22,11,0,right,G
+705,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB,  RB/, /GB, RB/, /GB",,FEMALE,36.0,23,11,1,right,B
+706,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,38.0,0,0,0,left,R
+707,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,38.0,1,1,0,right,G
+708,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,38.0,2,2,0,left,R
+709,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,38.0,3,3,0,right,G
+710,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,38.0,4,4,0,left,R
+711,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,38.0,5,5,0,right,G
+712,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,38.0,6,6,0,left,R
+713,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,38.0,7,7,0,right,G
+714,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,38.0,8,8,0,left,R
+715,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,38.0,9,9,0,right,G
+716,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,38.0,10,10,0,left,R
+717,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,38.0,11,11,0,right,G
+718,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","GG/, /R, GG/, /R, GG/, /R, /R, G/, G/, /R, G/",,MALE,38.0,0,0,0,left,G
+719,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","GG/, /R, GG/, /R, GG/, /R, /R, G/, G/, /R, G/",,MALE,38.0,1,0,1,left,G
+720,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","GG/, /R, GG/, /R, GG/, /R, /R, G/, G/, /R, G/",,MALE,38.0,2,1,0,right,R
+721,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","GG/, /R, GG/, /R, GG/, /R, /R, G/, G/, /R, G/",,MALE,38.0,3,2,0,left,G
+722,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","GG/, /R, GG/, /R, GG/, /R, /R, G/, G/, /R, G/",,MALE,38.0,4,2,1,left,G
+723,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","GG/, /R, GG/, /R, GG/, /R, /R, G/, G/, /R, G/",,MALE,38.0,5,3,0,right,R
+724,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","GG/, /R, GG/, /R, GG/, /R, /R, G/, G/, /R, G/",,MALE,38.0,6,4,0,left,G
+725,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","GG/, /R, GG/, /R, GG/, /R, /R, G/, G/, /R, G/",,MALE,38.0,7,4,1,left,G
+726,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","GG/, /R, GG/, /R, GG/, /R, /R, G/, G/, /R, G/",,MALE,38.0,8,5,0,right,R
+727,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","GG/, /R, GG/, /R, GG/, /R, /R, G/, G/, /R, G/",,MALE,38.0,9,6,0,right,R
+728,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","GG/, /R, GG/, /R, GG/, /R, /R, G/, G/, /R, G/",,MALE,38.0,10,7,0,left,G
+729,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","GG/, /R, GG/, /R, GG/, /R, /R, G/, G/, /R, G/",,MALE,38.0,11,8,0,left,G
+730,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","GG/, /R, GG/, /R, GG/, /R, /R, G/, G/, /R, G/",,MALE,38.0,12,9,0,right,R
+731,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","GG/, /R, GG/, /R, GG/, /R, /R, G/, G/, /R, G/",,MALE,38.0,13,10,0,left,G
+732,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,0,0,0,left,R
+733,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,1,0,1,left,B
+734,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,2,1,0,right,G
+735,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,3,1,1,right,B
+736,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,4,2,0,left,R
+737,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,5,2,1,left,B
+738,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,6,3,0,right,G
+739,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,7,3,1,right,B
+740,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,8,4,0,left,R
+741,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,9,4,1,left,B
+742,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,10,5,0,right,G
+743,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,11,5,1,right,B
+744,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,12,6,0,left,R
+745,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,13,6,1,left,B
+746,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,14,7,0,left,R
+747,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,15,7,1,left,B
+748,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,16,7,2,left,R
+749,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,17,7,3,left,B
+750,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,18,8,0,left,R
+751,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,19,8,1,left,B
+752,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,20,8,2,left,R
+753,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,21,8,3,left,B
+754,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,22,8,4,left,R
+755,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,23,8,5,left,B
+756,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,24,9,0,right,G
+757,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,25,9,1,right,B
+758,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,26,9,2,right,G
+759,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,27,9,3,right,B
+760,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,28,9,4,right,G
+761,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,29,9,5,right,B
+762,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,30,9,6,right,G
+763,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB, RB/, RBRB/, RBRBRB/, /GBGBGBGB",,MALE,38.0,31,9,7,right,B
+764,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, RR/, /G, R/, /G, /G, R/, /GG",,FEMALE,42.0,0,0,0,left,R
+765,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, RR/, /G, R/, /G, /G, R/, /GG",,FEMALE,42.0,1,1,0,right,G
+766,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, RR/, /G, R/, /G, /G, R/, /GG",,FEMALE,42.0,2,2,0,left,R
+767,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, RR/, /G, R/, /G, /G, R/, /GG",,FEMALE,42.0,3,3,0,right,G
+768,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, RR/, /G, R/, /G, /G, R/, /GG",,FEMALE,42.0,4,4,0,left,R
+769,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, RR/, /G, R/, /G, /G, R/, /GG",,FEMALE,42.0,5,4,1,left,R
+770,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, RR/, /G, R/, /G, /G, R/, /GG",,FEMALE,42.0,6,5,0,right,G
+771,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, RR/, /G, R/, /G, /G, R/, /GG",,FEMALE,42.0,7,6,0,left,R
+772,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, RR/, /G, R/, /G, /G, R/, /GG",,FEMALE,42.0,8,7,0,right,G
+773,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, RR/, /G, R/, /G, /G, R/, /GG",,FEMALE,42.0,9,8,0,right,G
+774,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, RR/, /G, R/, /G, /G, R/, /GG",,FEMALE,42.0,10,9,0,left,R
+775,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, RR/, /G, R/, /G, /G, R/, /GG",,FEMALE,42.0,11,10,0,right,G
+776,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, RR/, /G, R/, /G, /G, R/, /GG",,FEMALE,42.0,12,10,1,right,G
+777,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, RR/, /GG, R/, /GG",,FEMALE,42.0,0,0,0,left,R
+778,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, RR/, /GG, R/, /GG",,FEMALE,42.0,1,1,0,right,G
+779,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, RR/, /GG, R/, /GG",,FEMALE,42.0,2,2,0,left,R
+780,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, RR/, /GG, R/, /GG",,FEMALE,42.0,3,3,0,left,R
+781,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, RR/, /GG, R/, /GG",,FEMALE,42.0,4,3,1,left,R
+782,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, RR/, /GG, R/, /GG",,FEMALE,42.0,5,4,0,right,G
+783,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, RR/, /GG, R/, /GG",,FEMALE,42.0,6,4,1,right,G
+784,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, RR/, /GG, R/, /GG",,FEMALE,42.0,7,5,0,left,R
+785,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, RR/, /GG, R/, /GG",,FEMALE,42.0,8,6,0,right,G
+786,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, R/, RR/, /GG, R/, /GG",,FEMALE,42.0,9,6,1,right,G
+787,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,FEMALE,42.0,0,0,0,left,R
+788,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,FEMALE,42.0,1,0,1,left,B
+789,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,FEMALE,42.0,2,1,0,right,G
+790,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,FEMALE,42.0,3,1,1,right,B
+791,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,FEMALE,42.0,4,2,0,left,R
+792,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,FEMALE,42.0,5,2,1,left,B
+793,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,FEMALE,42.0,6,3,0,right,G
+794,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,FEMALE,42.0,7,3,1,right,B
+795,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,FEMALE,42.0,8,4,0,left,R
+796,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,FEMALE,42.0,9,4,1,left,B
+797,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,FEMALE,42.0,10,5,0,right,G
+798,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,FEMALE,42.0,11,5,1,right,B
+799,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/G, R/, /G, R/, /G, /Rc, R/, GGc/, /GG, R/",,FEMALE,43.0,0,0,0,right,G
+800,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/G, R/, /G, R/, /G, /Rc, R/, GGc/, /GG, R/",,FEMALE,43.0,1,1,0,left,R
+801,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/G, R/, /G, R/, /G, /Rc, R/, GGc/, /GG, R/",,FEMALE,43.0,2,2,0,right,G
+802,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/G, R/, /G, R/, /G, /Rc, R/, GGc/, /GG, R/",,FEMALE,43.0,3,3,0,left,R
+803,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/G, R/, /G, R/, /G, /Rc, R/, GGc/, /GG, R/",,FEMALE,43.0,4,4,0,right,G
+804,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/G, R/, /G, R/, /G, /Rc, R/, GGc/, /GG, R/",,FEMALE,43.0,5,5,0,left,R
+805,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/G, R/, /G, R/, /G, /Rc, R/, GGc/, /GG, R/",,FEMALE,43.0,6,6,0,left,R
+806,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/G, R/, /G, R/, /G, /Rc, R/, GGc/, /GG, R/",,FEMALE,43.0,7,7,0,left,G
+807,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/G, R/, /G, R/, /G, /Rc, R/, GGc/, /GG, R/",,FEMALE,43.0,8,7,0,right,G
+808,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/G, R/, /G, R/, /G, /Rc, R/, GGc/, /GG, R/",,FEMALE,43.0,9,8,0,right,G
+809,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/G, R/, /G, R/, /G, /Rc, R/, GGc/, /GG, R/",,FEMALE,43.0,10,8,1,right,G
+810,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","/G, R/, /G, R/, /G, /Rc, R/, GGc/, /GG, R/",,FEMALE,43.0,11,9,0,left,R
+811,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, Rb/, R/, /GG, R/, /GG",,FEMALE,43.0,0,0,0,left,R
+812,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, Rb/, R/, /GG, R/, /GG",,FEMALE,43.0,1,1,0,right,G
+813,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, Rb/, R/, /GG, R/, /GG",,FEMALE,43.0,2,1,1,right,G
+814,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, Rb/, R/, /GG, R/, /GG",,FEMALE,43.0,3,2,0,left,R
+815,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, Rb/, R/, /GG, R/, /GG",,FEMALE,43.0,4,3,0,right,G
+816,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, Rb/, R/, /GG, R/, /GG",,FEMALE,43.0,5,3,1,right,G
+817,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, Rb/, R/, /GG, R/, /GG",,FEMALE,43.0,6,4,0,left,R
+818,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, Rb/, R/, /GG, R/, /GG",,FEMALE,43.0,7,5,0,right,G
+819,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, Rb/, R/, /GG, R/, /GG",,FEMALE,43.0,8,5,1,right,G
+820,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, Rb/, R/, /GG, R/, /GG",,FEMALE,43.0,9,6,0,left,R
+821,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, Rb/, R/, /GG, R/, /GG",,FEMALE,43.0,10,7,0,left,R
+822,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, Rb/, R/, /GG, R/, /GG",,FEMALE,43.0,11,8,0,right,G
+823,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, Rb/, R/, /GG, R/, /GG",,FEMALE,43.0,12,8,1,right,G
+824,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, Rb/, R/, /GG, R/, /GG",,FEMALE,43.0,13,9,0,left,R
+825,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, Rb/, R/, /GG, R/, /GG",,FEMALE,43.0,14,10,0,right,G
+826,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /GG, R/, /GG, R/, /GG, Rb/, R/, /GG, R/, /GG",,FEMALE,43.0,15,10,1,right,G
+827,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,0,0,0,left,R
+828,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,1,0,1,left,B
+829,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,2,1,0,right,G
+830,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,3,1,1,right,B
+831,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,4,2,0,left,R
+832,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,5,2,1,left,B
+833,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,6,3,0,right,G
+834,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,7,3,1,right,B
+835,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,8,3,2,right,B
+836,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,9,4,0,right,G
+837,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,10,4,1,right,B
+838,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,11,5,0,left,R
+839,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,12,5,1,left,B
+840,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,13,6,0,right,G
+841,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,14,6,1,right,B
+842,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,15,7,0,left,R
+843,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,16,7,1,left,B
+844,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,17,8,0,right,G
+845,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GBBb, /GB, RB/, /GB, RB/, /GB",,FEMALE,43.0,18,8,1,right,B
+846,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,45.0,0,0,0,left,R
+847,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,45.0,1,1,0,right,G
+848,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,45.0,2,2,0,left,R
+849,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,45.0,3,3,0,right,G
+850,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,45.0,4,4,0,left,R
+851,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,45.0,5,5,0,right,G
+852,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,45.0,6,6,0,left,R
+853,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,45.0,7,7,0,right,G
+854,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,45.0,8,8,0,left,R
+855,,SORT,"G/, /R, G/, /R, G/, /R, G/, /R","R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",,MALE,45.0,9,9,0,right,G
+856,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, RR/, RRGc/ , /G, R/, R/, R/, /G, /G, /G, /G, /G, /G",,MALE,45.0,0,0,0,left,R
+857,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, RR/, RRGc/ , /G, R/, R/, R/, /G, /G, /G, /G, /G, /G",,MALE,45.0,1,1,0,right,G
+858,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, RR/, RRGc/ , /G, R/, R/, R/, /G, /G, /G, /G, /G, /G",,MALE,45.0,2,2,0,left,R
+859,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, RR/, RRGc/ , /G, R/, R/, R/, /G, /G, /G, /G, /G, /G",,MALE,45.0,3,2,1,left,R
+860,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, RR/, RRGc/ , /G, R/, R/, R/, /G, /G, /G, /G, /G, /G",,MALE,45.0,4,3,0,left,R
+861,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, RR/, RRGc/ , /G, R/, R/, R/, /G, /G, /G, /G, /G, /G",,MALE,45.0,5,3,1,left,R
+862,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, RR/, RRGc/ , /G, R/, R/, R/, /G, /G, /G, /G, /G, /G",,MALE,45.0,6,3,0,right,G
+863,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, RR/, RRGc/ , /G, R/, R/, R/, /G, /G, /G, /G, /G, /G",,MALE,45.0,7,4,0,right,G
+864,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, RR/, RRGc/ , /G, R/, R/, R/, /G, /G, /G, /G, /G, /G",,MALE,45.0,8,5,0,left,R
+865,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, RR/, RRGc/ , /G, R/, R/, R/, /G, /G, /G, /G, /G, /G",,MALE,45.0,9,6,0,left,R
+866,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, RR/, RRGc/ , /G, R/, R/, R/, /G, /G, /G, /G, /G, /G",,MALE,45.0,10,7,0,left,R
+867,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, RR/, RRGc/ , /G, R/, R/, R/, /G, /G, /G, /G, /G, /G",,MALE,45.0,11,8,0,right,G
+868,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, RR/, RRGc/ , /G, R/, R/, R/, /G, /G, /G, /G, /G, /G",,MALE,45.0,12,9,0,right,G
+869,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, RR/, RRGc/ , /G, R/, R/, R/, /G, /G, /G, /G, /G, /G",,MALE,45.0,13,10,0,right,G
+870,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, RR/, RRGc/ , /G, R/, R/, R/, /G, /G, /G, /G, /G, /G",,MALE,45.0,14,11,0,right,G
+871,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, RR/, RRGc/ , /G, R/, R/, R/, /G, /G, /G, /G, /G, /G",,MALE,45.0,15,12,0,right,G
+872,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, /G, RR/, RRGc/ , /G, R/, R/, R/, /G, /G, /G, /G, /G, /G",,MALE,45.0,16,13,0,right,G
+873,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,MALE,45.0,0,0,0,left,R
+874,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,MALE,45.0,1,0,1,left,B
+875,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,MALE,45.0,2,1,0,right,G
+876,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,MALE,45.0,3,1,1,right,B
+877,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,MALE,45.0,4,2,0,left,R
+878,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,MALE,45.0,5,2,1,left,B
+879,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,MALE,45.0,6,3,0,right,G
+880,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,MALE,45.0,7,3,1,right,B
+881,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,MALE,45.0,8,4,0,left,R
+882,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,MALE,45.0,9,4,1,left,B
+883,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,MALE,45.0,10,5,0,right,G
+884,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","RB/, /GB, RB/, /GB, RB/, /GB",,MALE,45.0,11,5,1,right,B
+885,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, RR/, /Rc, R/, R/, /G, /G",,MALE,46.0,0,0,0,left,R
+886,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, RR/, /Rc, R/, R/, /G, /G",,MALE,46.0,1,1,0,left,R
+887,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, RR/, /Rc, R/, R/, /G, /G",,MALE,46.0,2,1,1,left,R
+888,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, RR/, /Rc, R/, R/, /G, /G",,MALE,46.0,3,2,0,left,R
+889,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, RR/, /Rc, R/, R/, /G, /G",,MALE,46.0,4,3,0,left,R
+890,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, RR/, /Rc, R/, R/, /G, /G",,MALE,46.0,5,4,0,left,R
+891,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, RR/, /Rc, R/, R/, /G, /G",,MALE,46.0,6,5,0,right,G
+892,,DOUBLE,"R/, /GG, R/, /GG, R/, /GG, R/, /GG","R/, RR/, /Rc, R/, R/, /G, /G",,MALE,46.0,7,6,0,right,G
+893,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","B/, G/, /R, /G, RR/",,MALE,46.0,0,0,0,left,B
+894,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","B/, G/, /R, /G, RR/",,MALE,46.0,1,1,0,left,G
+895,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","B/, G/, /R, /G, RR/",,MALE,46.0,2,2,0,right,R
+896,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","B/, G/, /R, /G, RR/",,MALE,46.0,3,3,0,right,G
+897,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","B/, G/, /R, /G, RR/",,MALE,46.0,4,4,0,left,R
+898,,HITCH,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB","B/, G/, /R, /G, RR/",,MALE,46.0,5,4,1,left,R

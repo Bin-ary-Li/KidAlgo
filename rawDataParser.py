@@ -1,21 +1,50 @@
-import csv
-import pandas as pd
+import pandas
 import re
 
-
-kidDataPath = 'KIDALGORITHMS_DEMO.csv'
-outputPath = './NewKidAlgoData_test.csv'
-
-newData = {'ID':[], 'DOB':[],'AGE':[],'GENDER':[],'ALGOTYPE':[],'DEMO':[],'RESPONSE':[],'L/R':[]}
+inputPath = "./KA_DATA/DEMO_OUTPUT-Table 1.csv"
+outputPath = "./experimentData.csv"
+outputCSVHeaders = ['AGE', 'ALGOTYPE', 'DEMO', 'OVERALL.RESPONSE', 'DOB', 'GENDER', 'ID', 'OVERALL.RESPONSE.NO', 'RESPONSE.NO', 'ACTION.NO', 'BUCKET', 'RESPONSE']
 
 
-def parser (s):
-    for ri, response in enumerate(re.split(r"\s*,\s*", s)): # split on commas
-        print ri, response
+# read in data
+dRaw = pandas.read_csv(inputPath)
+
+# cleaning, drop completely null and 0 response
+d = dRaw.loc[ (dRaw['SORT_OUTPUT'].notnull()) | (dRaw['DOUBLE_OUTPUT'].notnull()) | (dRaw['HITCH_OUTPUT'].notnull()) ]
+d = d.loc[ (d['SORT_OUTPUT']!="0") | (d['DOUBLE_OUTPUT']!="0") | (d['HITCH_OUTPUT']!="0") ]
+
+# Parser function
+def regexParse (row, algoType):
+    algoLabel = algoType + "_OUTPUT"
+    demoLabel = algoType + "_DEMO"
+    resString = row[algoLabel]
+    dataStr = []
+    overall_response_count = 0
+    if pandas.isna(resString) : resString = " / "
+    for ri, response in enumerate(re.split(r"\s*,\s*", resString)): # split on commas
         lb, rb = re.split(r"/", response) # split left and right buckets
-        parsedList = []
+
+        # remove whitespace
+        lb = re.sub(r"\s", "", lb) 
+        rb = re.sub(r"\s", "", rb)
+
+        ##############################
         ## Process annotations
-        
+        ##############################
+
+        # Remove xes
+        lb = re.sub(r"x", "", lb)
+        rb = re.sub(r"x", "", rb)
+
+        # b -- put back into original container 
+        # for now, we'll remove these
+        # sometimes cm may occur if they correct and then put it back
+#         lb = re.sub(r"[A-Z][cm]*b", "", lb)
+#         rb = re.sub(r"[A-Z][cm]*b", "", rb)
+#         or just remove all the b
+        lb = re.sub(r"b", "", lb)
+        rb = re.sub(r"b", "", rb)
+
         # add in corrections -- any characters followed by c, put into other bucket
         for x in re.findall("([A-Z])c", lb):
             rb += x
@@ -28,62 +57,35 @@ def parser (s):
         # toss out m annotation for now
         lb = re.sub(r"m", "", lb)
         rb = re.sub(r"m", "", rb)
-        
-        # b -- put back into original container 
-        # for now, we'll remove these
-        lb = re.sub(r"[A-Z]b", "", lb)
-        rb = re.sub(r"[A-Z]b", "", rb)
-          
-        # a little check that there's nothing else weird in the strings
-        print lb, rb
+
+#         print rb + "," + lb
         assert not re.search(r"[^A-Z]", lb)
         assert not re.search(r"[^A-Z]", rb)
-        
-        # for ai, a in enumerate(lb):
-        #     print ri, ai, "left", a 
-        
-        # for ai, a in enumerate(rb):
-        #     print ri, ai, "right", a
 
-        parsedList=[lb,rb]
-        return parsedList
+        for ai, a in enumerate(lb):
+            singleAct = [row["AGE"], algoType, row[demoLabel], row[algoLabel], row['DOB'], row['GENDER'], row['ID'],overall_response_count, ri, ai, "left", a] 
+            dataStr.append(singleAct)
+            overall_response_count += 1
 
+        for ai, a in enumerate(rb):
+            singleAct = [row["AGE"], algoType, row[demoLabel], row[algoLabel], row['DOB'], row['GENDER'], row['ID'],overall_response_count, ri, ai, "right", a] 
+            dataStr.append(singleAct)
+            overall_response_count += 1
+    return dataStr
 
-def itr (list): 
-	for x in list[0]:
-		newData['ID'].append(childID)
-		newData['DOB'].append(childDOB)
-		newData['AGE'].append(childAge)
-		newData['GENDER'].append(childGender)
-		newData['L/R'].append('L')
-		newData['RESPONSE'].append(x)
-	for x in list[1]:
-		newData['ID'].append(childID)
-		newData['DOB'].append(childDOB)
-		newData['AGE'].append(childAge)
-		newData['GENDER'].append(childGender)
-		newData['L/R'].append('R')
-		newData['RESPONSE'].append(x)
-
-with open(kidDataPath) as csvfile:
-	childAlgoData = csv.DictReader(csvfile)
-	for child in childAlgoData:
-		childID = child['ID']
-		childDOB = child['DOB']
-		childAge = child['AGE']
-		childGender = child['GENDER']
-		childSortDM = child['SORT_DEMO']
-		childSortOut = child['SORT_OUTPUT']
-		childDbDM = child['DOUBLE_DEMO']
-		childDbOut = child['DOUBLE_OUTPUT']
-		childHchDM = child['HITCH_DEMO']
-		childHchOut = child['HITCH_OUTPUT']
-		print childHchOut
-		HchOutL = parser(childHchOut)
-		itr(childSortOut)
-		itr(childDbOut)
-		itr(childHchOut)
+# take in cleaned dataframe, output string of single ball moving actions
+def parseAll (d):
+    dataStr = []
+    for subjecti, row in d.iterrows(): 
+        dataStr += regexParse(row, "SORT") + regexParse(row, "DOUBLE") + regexParse(row, "HITCH")
+    return dataStr
 
 
-df = pd.DataFrame(data=newData)
-df.to_csv(path_or_buf=outputPath, index=False)
+
+dataStr = parseAll(d)
+finalDF = pandas.DataFrame(dataStr, columns=outputCSVHeaders)
+finalDF.to_csv(outputCSVHeaders)
+
+
+
+
