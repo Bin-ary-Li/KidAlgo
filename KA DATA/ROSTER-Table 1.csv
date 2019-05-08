@@ -1,0 +1,51 @@
+ID,FIRST NAME,LAST NAME,DOB,AGE ,GENDER,PARENT NAME ,EMAIL,PHONE,TESTING LOCATION,TESTED
+1.00,Zyana,Guzmán-Beaman,8/13/15,3.73,F,Krystell Guzman,N/A,N/A,La Plazita Preschool III,Y
+2.00,Julian,Izzo,11/2/15,3.51,M,Hilary Izzo,N/A,N/A,La Plazita Preschool III,Y
+3.00,Drew,Brown,9/23/15,3.62,M,Francesca Brown,fvalerian@gmail.com,(510) 421-1616,La Plazita Preschool III,Y
+4.00,Della,Getinet,7/13/14,4.82,F,Mekoria Getinet,genitet@gmail.com,(415) 692-1148,La Plazita Preschool III,Y
+5.00,Marlowe,Triplett,4/16/15,4.06,F,Mari Triplett,N/A,N/A,La Plazita Preschool III,Y
+6.00,Emilio,Cortez-Farmer,1/27/16,3.27,M,Liz Cortez,N/A,N/A,La Plazita Preschool III,N
+7.00,Alder ,Aft,4/18/16,3.05,M,Rebecca Kihslinger,rlkihslinger@gmail.com,(202) 531-2953,La Plazita Preschool III,Y
+8.00,Camilo,Chávez,1/29/14,5.27,M,Mateus Chavez,mchavez510@gmail.com,(510) 331-4158,La Plazita Preschool III,Y
+9.00,Mayahuel,Chávez,9/3/16,2.67,F,Mateus Chavez,mchavez510@gmail.com,(510) 331-4158,La Plazita Preschool III,N
+10.00,Olivia ,Lewis,10/21/15,3.54,F,Jennifer Lewis,N/A,N/A,La Plazita Preschool III,Y
+11.00,Isaiah,Ramos,4/26/15,4.03,M,Andre Ramos,amr525@gmail.com,(510) 909-6211,La Plazita Preschool III,N
+12.00,Rafael,Beaver,10/25/15,3.53,M,John Beaver,johnbeaver510@gmail.com,(414) 364-5662,La Plazita Preschool III,N
+13.00,Dahlia,Hill,12/8/13,5.41,F,Kevin Hill,N/A,N/A,La Plazita Preschool III,Y
+14.00,Holiday,Williams,11/24/15,3.45,F,Katherine Maas,katherine_maas@yahoo.com,(520) 834-4857,La Plazita Preschool III,N
+15.00,Benicio,Murillo,4/3/15,4.09,M,Carley Murillo,N/A,N/A,La Plazita Preschool III,N
+16.00,Azariah,Goodall,7/11/16,2.82,F,Yasmin Carmichael,N/A,N/A,La Plazita Preschool III,N
+17.00,Mariana,Mast,5/26/15,3.95,F,Carlolina Molano,N/A,N/A,La Plazita Preschool III,Y
+18.00,Marigold,Salomon,10/5/14,4.59,F,Sierra Saloman,heyitssierra@gmail.com,(317) 797-0927,La Plazita Preschool III,Y
+19.00,Nina,Osorio,6/5/15,3.92,F,Adriana Oyarznn,adriana.oyarznn@gmail.com,(510) 565-4334,La Plazita Preschool III,Y
+20.00,Saoirse,Cooper,11/7/14,4.50,F,Joselin Cooper,N/A,N/A,La Plazita Preschool III,N
+21.00,Julian,Stelzer,6/8/14,4.91,M,Andrew Stelzer,N/A,N/A,La Plazita Preschool III,Y
+22.00,Flynn,Bartlett,3/25/14,5.12,M,Jon Bartlett,N/A,N/A,La Plazita Preschool III,Y
+23.00,Lucas,Talbot,8/30/16,2.68,M,Paul Talbot,N/A,N/A,La Plazita Preschool III,N
+24.00,Eliana,Capitelli-Garcia,8/14/15,3.73,F,Maria Capitelli,N/A,N/A,La Plazita Preschool III,N
+25.00,Logan,Van Sittert,1/13/14,5.31,M,Melissa Crago,N/A,N/A,La Plazita Preschool III,Y
+26.00,River,Grantham,3/18/14,5.14,M,Ted Grantham,N/A,N/A,La Plazita Preschool III,Y
+27.00,Castula,Shear,4/4/14,5.09,F,Kristinia Hillman,xtina1@netzero.net,(415) 518-8396,La Plazita Preschool III,Y
+28.00,Stella,Harrison,4/23/15,4.04,F,Alexis Lanaux,N/A,N/A,La Plazita Preschool III,Y
+29.00,Eilie,Wheeler Steward,2/6/16,3.25,F,Jed Wheeler,N/A,N/A,La Plazita Preschool III,Y
+30.00,Lola,Flores Schustack ,6/7/14,4.91,F,Jana Flores Schustack,N/A,N/A,La Plazita Preschool III,Y
+31.00,Julian,Gupta-Muñoz,8/15/15,3.73,M,Brenda Muñoz,N/A,N/A,La Plazita Preschool III,N
+32.00,Robert,Obermeyer,3/23/15,4.12,M,Jeffrey Obermeyer,jeffobermeyerwcuor@gmail.com,(510) 612-9698,La Plazita Preschool III,Y
+33.00,Sybil,Marie Gottesman,6/5/15,3.92,F,Rebekah Otto,bekahotto@gmail.com,(773) 590-6978,La Plazita Preschool III,N
+34.00,Aurora Lucia,Muñoz-Zermeno,,,F,Polo Muñoz,N/A,N/A,La Plazita Preschool III,Y
+35.00,Brooke,Murphy,,,F,Debra Murphy,N/A,N/A,La Plazita Preschool III,N
+36.00,Juniper,Pritchett,,,F,Ariana Pritchett,N/A,N/A,La Plazita Preschool,Y
+37.00,Rosalie,Burt,,,F,Julia Textor,N/A,N/A,La Plazita Preschool,Y
+38.00,Keaton,Burt,,,M,Julia Textor,N/A,N/A,La Plazita Preschool,Y
+39.00,Emilia,Gurrola,,,F,Cristina Gurrola,N/A,N/A,La Plazita Preschool,Y
+40.00,Alaya,Dima,,,F,Layla Dima ,rayraylayla@hotmail.com,(415) 515-7334,La Plazita Preschool,N
+41.00,Yaelle,Gaskin,,,F,Sarah Gaskin,N/A,N/A,La Plazita Preschool,Y
+42.00,Simone,Phillips,,,F,Morgan Phillips,N/A,N/A,La Plazita Preschool,Y
+43.00,Carolina ,Mejía-Giachino,,,F,Alyssa Giachino,N/A,N/A,La Plazita Preschool,Y
+44.00,Leslie,Ramos,,,F,Karla Ramos,N/A,N/A,La Plazita Preschool,N
+45.00,Akin Marley,Moore-Almeida,,,M,Hannah K. Moore,N/A,N/A,La Plazita Preschool,Y
+46.00,Carter,Sarmiento,,,M,Siena Sarmiento ,N/A,N/A,La Plazita Preschool,Y
+47.00,Jeannine,Wilkinson,,,F,Shakira Wilkinson,N/A,N/A,La Plazita Preschool,N
+,,,,,,,,,,
+,,,,,,,,,Tested:,31
+,,,,,,,,,Not Tested:,16

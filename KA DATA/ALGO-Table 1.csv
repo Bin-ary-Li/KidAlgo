@@ -1,0 +1,27 @@
+ID,DOB,AGE,GENDER,GIVE-N,GIVEONE,GIVETWO,GIVETHREE,GIVEFOUR,GIVEFIVE,GIVESIX,GIVESEVEN,GIVEEIGHT,GIVENINE,GIVETEN,COUNTBEAR,COUNTBEARSUCCESS,COUNTSELF,ALGO1,,,ALGO2,,,ALGO3,,,,,
+1.00,8/13/15,3.732,FEMALE,Y,1,0,0,0,0,0,0,0,0,0,N,0,N,sort,Y,,double,N,,N/A,N/A,,,,
+2.00,11/2/15,3.510,MALE,Y,1,1,1,0,0,0,0,0,0,0,N,0,N,sort,Y,,hitchhiker,N,,N/A,N/A,,,,
+3.00,9/23/15,3.619,MALE,Y,1,1,1,0,0,0,0,0,0,0,N,0,N,sort,N,,double,Y,,N/A,N/A,,,,
+4.00,7/13/14,4.816,FEMALE,Y,1,1,1,1,1,0,0,0,0,0,Y,1,Y,hitchhiker,Y,"/RB, GB/, /RB, GB/, /RB, GB/, /RB GB/",sort,Y,"R/, /G, /RGxc, /G, R/, /G",double,Y,"G/, /RR, G/, /RR, G/, /RR, G/, /RR",8,5,8
+5.00,4/16/15,4.057,FEMALE,Y,1,1,1,0,0,0,0,0,0,0,N,0,Y,sort,Y,,hitchhiker,Y,,N/A,N/A,,,,
+7.00,4/18/16,3.050,MALE,Y,1,0,0,0,0,0,0,0,0,0,N,0,N,hitchhiker,N,"B/, /B, B/, B/, B/, mBBBB/, mB/",sort,Y,"R/, /G, R/, /G, /G, R/, mRR/GG",double,N,"/R, mRG/, G/, /mR, G/, /RR, mGG/RRR, G/",0,6,0
+8.00,1/29/14,5.268,MALE,Y,1,0,0,0,0,0,0,0,0,0,Y,1,Y,double,N,"R/, R/, /G, R/, /GG, mRRR/, /GG, RR/, R/, RR/",sort,Y,"/G, R/, RGc/, R/, RR/, RR/, /GG",hitchhiker,Y,"RB/, /GB, RB/, /GB, RB/, /GB",6,3,6
+10.00,10/21/15,3.543,FEMALE,Y,1,1,1,1,0,0,0,0,0,0,Y*,1,N,hitchhiker,N,"GB/, RB/, BRR/, R/G, mR/, GB/",sort,Y,"RRRcRRb/, R/, /MRGc, R/, /G ",double,N,"/mRRG, G/, /R, /GG, R/, R/, /RRc, /RR",1,2,2
+13.00,12/8/13,5.410,FEMALE,Y,1,1,1,1,1,1,1,1,0,0,Y,1,Y,sort,Y,"G/, /R, G/, /R, G/, /R, G/, /R,  G/, /R, G/, /R, G/, /R, G/, /R",double,Y,"R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",hitchhiker,Y,"RB/, RB/, /GB, /GB, RB/, /GB",16,12,6
+17.00,5/26/15,3.948,FEMALE,Y,1,1,1,0,0,0,0,0,0,0,Y,1,Y,double,Y,"R/, /GG, R/, /GG, RR/, /GG, R/, /GG",sort,Y,"R/, /G, R/, /G, R/, /G, RR/",hitchhiker,N,"/GBB, RB/, RB/, /GB, RR/, /GB",6,6,4
+18.00,10/5/14,4.586,FEMALE,Y,1,1,1,1,0,0,0,0,0,0,N,0,Y,sort,Y,"R/, /G, R/, /G, R/, /G, R/, /G, RR/, /GG, RR/, /GG",hitchhiker,N,"GRBc/, /G, mR/G, R/, /GB",double,N,"R/, /G, R/, /G, R/, /G",8,1,0
+19.00,6/5/15,3.921,FEMALE,Y,1,1,1,0,0,0,0,0,0,0,Y,1,Y,sort,Y,"/R, G/, G/b, /R, G/, /R, G/, /R, /RR, m/RRRGc, G/",double,N,"G/, /RR, /mR, GGG/, /mR, mG/",hitchhiker,N,"R/, /mB, mRR/G, mRG/, /mB, /mB",7,2,0
+21.00,6/8/15,3.912,MALE,Y,1,1,1,1,1,0,0,0,0,0,Y,1,Y,hitchhiker,Y,"/RB, GB/",sort,Y,"R/, /G",double,N,,2,2,
+22.00,3/25/14,5.117,MALE,Y,1,1,0,0,0,0,0,0,0,0,Y,1,Y,sort,Y,"R/, /G, R/, /G, R/, /G, R/, /G, R/, /G",hitchhiker,Y,"RB/, /GB, RB/, /GB, RB/, /GB, RB/, /GB, RB/ ",double,Y,"R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",10,9,10
+25.00,1/13/14,5.311,MALE,Y,1,0,0,0,0,0,0,0,0,0,Y,1,Y,sort,Y,"/G, R/, /G, R/, R/, /G, R/, /G, R/, /G, RR/, /GG, /G, /G, /G, /G, /G, /G ",double,N,"/GG, /GG, /GG, /GG",hitchhiker,N,mRGB/RGB,16,4,0
+26.00,3/18/14,5.136,MALE,Y,1,1,1,1,1,0,0,0,0,0,N,0,N,hitchhiker,N,"GB/, RG/, RG/, /RG, /R, BB/, GB/, /RG, GB/, RR/, RG/, /BB, /GB, /RB, B/",sort,Y,"R/, /G, R/, /G, R/, /G, R/, /G, R/, R/, /GG, /GG, /Rc, R/, /GG, RRGc/, /G",double,Y,"R/, R/, /GG, R/, /GG, R/, /GG, RR/, /GG, R/, /GG, R/, /GG, RR/, R/, /GG",3,12,14
+27.00,4/4/14,5.090,FEMALE,Y,1,1,1,1,1,1,1,1,0,0,Y,1,Y,sort,Y,"R/, /GRc, R/, /GRc, R/, /G, R/, /G, R/, /G ",double,Y,"G/ /RR, G/, /RR, G/, /RR, G/, /RR, G/, /RR",hitchhiker,Y,"RB/, /GB, RB/, /GB, RB/, /GBB, RB/, /GB",10,10,7
+28.00,4/23/15,4.038,FEMALE,Y,1,1,1,0,0,0,0,0,0,0,N,0,N,sort,N,"R/, R/",double,N,"/R, G/, /R, G/",hitchhiker,N,"RB/, B/",1,0,1
+29.00,2/6/16,3.247,FEMALE,Y,1,1,0,0,0,0,0,0,0,0,Y,1,N,double,Y,"mR/GG, RR/, mRG/, /G, /G, /GG, mRR/G, mR/G, mR/G,  mR/G, mR/G, /R, /G, mR/",hitchhiker,N,"/GB, GB/, mB/R, /BB, /G, /G, /B, /G, /B, BB/",sort,Y,"R/, /G, /Rc, R/, /G, R/, /G, /G, /R, /G",3,1,8
+30.00,6/7/14,4.914,FEMALE,Y,1,1,1,1,0,0,0,0,0,0,Y,1,Y,sort,Y,"/R, G/, Rcb/, G/, /R, G/, /R, G/, /R",double,N,"R/, /G, R/, /G, /G, mRR/GG",hitchhiker,Y,"RB/, /GB, RB/, /GB, /GB, RB/, /GB",8,3,7
+32.00,3/23/15,4.123,MALE,Y,1,1,0,0,0,0,0,0,0,0,Y,1,N,sort,Y,"R/, /G, R/, RRR/, /G, RR/, /G, R/, /G, R/, /G, R/, /G, R/, /G, R/",double,Y,"mGGG/RR, mG/RR, mG/RR, mG/RR, mRc/Gc, mG/R",hitchhiker,N,"/GB, R/, mGRR/, B/, /B, R/, /GG, R/",14,3,1
+34.00,9/9/15,3.658,FEMALE,Y,1,1,0,0,0,0,0,0,0,0,N*,0,N,hitchhiker,N,"/RG, mRGB/, mRRGB/",double,N,"mR/G, mR/G, R/, /GR, /G, RR/, /GG ",sort,N,"G/, G/, /RR, mGG/R, /R, GGG/, /Gc, G/",0,4,4
+39.00,,,FEMALE,Y,1,1,1,1,0,0,0,0,0,0,Y,1,N,sort,Y,"R/, /G, R/, /GG, R/, /GG",double,Y,"R/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, GGc/, /GG, R/, /GG, R/, /GG, R/, /GG, R/, /GG",hitchhiker,Y,"RB/, /GB, /GB, RB/, /GB, RB/, /GB, RB/, RB/, /GB, RB",,,
+41.00,,,FEMALE,Y,1,1,0,0,0,0,0,0,0,0,Y,1,Y,sort,Y,"/G, R/, /G, R/, /G, R/, /GRc, R/ Gc/, /G, R/, Gc/, /G",double,Y,"R/, /G, R/, /G, R/, /G",hitchhiker,Y,"RB/, /GB, /GB, /RBc, RB/, GB",,,
+,,,15,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,9,,,,,,,,,,,,,,,,,,,,,,,,,,
