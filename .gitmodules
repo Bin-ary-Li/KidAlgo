@@ -1,0 +1,3 @@
+[submodule "BayesianModel"]
+	path = BayesianModel
+	url = https://github.com/Bin-ary-Li/Fleet.git
