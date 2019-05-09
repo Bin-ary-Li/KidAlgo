@@ -1,7 +1,7 @@
 import pandas
 import re
 
-inputPath = "./KA_DATA/DEMO_OUTPUT-Table 1.csv"
+inputPath = "./KA_DATA/Copy of KA DEMO_OUTPUT (REVISION) - DEMO_OUTPUT.csv"
 outputPath = "./experimentData.csv"
 outputCSVHeaders = ['AGE', 'ALGOTYPE', 'DEMO', 'OVERALL.RESPONSE', 'DOB', 'GENDER', 'ID', 'OVERALL.RESPONSE.NO', 'RESPONSE.NO', 'ACTION.NO', 'BUCKET', 'RESPONSE']
 
@@ -11,7 +11,7 @@ dRaw = pandas.read_csv(inputPath)
 
 # cleaning, drop completely null and 0 response
 d = dRaw.loc[ (dRaw['SORT_OUTPUT'].notnull()) | (dRaw['DOUBLE_OUTPUT'].notnull()) | (dRaw['HITCH_OUTPUT'].notnull()) ]
-d = d.loc[ (d['SORT_OUTPUT']!="0") | (d['DOUBLE_OUTPUT']!="0") | (d['HITCH_OUTPUT']!="0") ]
+d = d.loc[ (d['SORT_OUTPUT']!="0") & (d['DOUBLE_OUTPUT']!="0") & (d['HITCH_OUTPUT']!="0") ]
 
 # Parser function
 def regexParse (row, algoType):
@@ -21,7 +21,9 @@ def regexParse (row, algoType):
     dataStr = []
     overall_response_count = 0
     if pandas.isna(resString) : resString = " / "
+    print resString
     for ri, response in enumerate(re.split(r"\s*,\s*", resString)): # split on commas
+    	print response
         lb, rb = re.split(r"/", response) # split left and right buckets
 
         # remove whitespace
@@ -84,7 +86,7 @@ def parseAll (d):
 
 dataStr = parseAll(d)
 finalDF = pandas.DataFrame(dataStr, columns=outputCSVHeaders)
-finalDF.to_csv(outputCSVHeaders)
+finalDF.to_csv(outputPath)
 
 
 
