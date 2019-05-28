@@ -1,7 +1,7 @@
 import pandas
 import re
 
-inputPath = "./KA_DATA/Copy of KA DEMO_OUTPUT (REVISION) - DEMO_OUTPUT.csv"
+inputPath = "./KA_DATA/KA_DEMO_OUTPUT_BLCoding.csv"
 outputPath = "./experimentData.csv"
 outputCSVHeaders = ['AGE', 'ALGOTYPE', 'DEMO', 'OVERALL.RESPONSE', 'DOB', 'GENDER', 'ID', 'OVERALL.RESPONSE.NO', 'RESPONSE.NO', 'ACTION.NO', 'BUCKET', 'RESPONSE']
 
